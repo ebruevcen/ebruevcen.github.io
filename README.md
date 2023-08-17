@@ -1,4 +1,6 @@
 # ebruevcen.github.io
 Lorem ipsum dolor sit amet. 
-Hello world. 
-Hello Github. 
+<br>Hello world. 
+<br>Hello Git.
+<br>Hello Github. 
+
