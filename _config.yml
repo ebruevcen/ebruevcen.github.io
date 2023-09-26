@@ -1,0 +1,49 @@
+# Basic Information 
+title: Ebru Evcen
+position: PhD Candidate
+affiliation: UC San Diego
+affiliation_link: https://linguistics.ucsd.edu
+#affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
+email: eevcen (at) ucsd.edu
+
+# Search Engine Optimization (SEO)
+keywords: evcen ebru, ebru evcen, eevcen, ebruevcen
+canonical: https://www.cs.jhu.edu/~yyliu/
+description: Ebru Evcen is a PhD candidate in Linguistics at the UC San Diego. Her research lies in psycholinguistics and experimental pragmatics.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: text #text/icon
+google_scholar: https://scholar.google.com/citations?hl=en&user=FKLMwrkAAAAJ
+cv_link: 
+github_link: https://github.com/ebruevcen
+linkedin: https://www.linkedin.com/in/ebru-evcen-10916498/
+twitter: https://twitter.com/evcen_ebru
+
+# Images 
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
+
+
+# Footnotes
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
