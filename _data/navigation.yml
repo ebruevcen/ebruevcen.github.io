@@ -1,23 +1,14 @@
 main:
 
-  - title: "contact"
-    url: ./#contact 
-    right: true 
-
-  #- title: "Services"
-  #  url: ./#services
-
-  #- title: "Talks"
-  #  url: ./#invited-talks
-
-  - title: "codes"
-    url: ./#codes
 
   - title: "projects"
-    url: ./#publications
+    url: ./#projects
 
-  #- title: "News"
-  #  url: ./#news
+  - title: "presentations"
+    url: ./#presentations
+
+  - title: "publications"
+    url: ./#publications
 
   - title: "about me"
     url: ./#about-me
