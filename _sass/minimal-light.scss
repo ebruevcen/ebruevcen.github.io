@@ -52,16 +52,17 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
 
-.image.avatar { /* Remove border-radius property to make it square */ }
+.image.avatar { border-radius: 100%; }
 
-.image.avatar:before { display: none; }
-
-.image.avatar img { /* Remove border-radius property to make it square */
-    width: 55%;
-    padding: 50px;
+/* Increase the width and adjust padding for a larger circular image */
+.image.avatar img {
+    border-radius: 100%;
+    width: 65%; /* Adjust the percentage to make it larger */
+    padding: 35px; /* Adjust the padding as needed */
 }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
+
 
 
 h3, h4, h5, h6 { font-weight: 600; color: #e9851a; margin: 0 0 20px; }
