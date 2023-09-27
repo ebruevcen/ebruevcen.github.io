@@ -1,11 +1,8 @@
 main:
 
 
-
-
   - title: "publications"
     url: ./#publications
-
 
   - title: "presentations"
     url: ./#presentations
