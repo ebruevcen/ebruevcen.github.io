@@ -31,6 +31,7 @@ favicon: ./assets/img/favicon.png
 
 # Footnote
 footnote: Powered by Jekyll and Minimal Light theme.
+footnote: I respectfully acknowledge that we live and work on the land of the Kumeyaay/Kumiai nation. 
 enable_footnote: true
 
 # The following files will be removed from the generated website.
