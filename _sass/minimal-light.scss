@@ -48,7 +48,7 @@ education { font-weight: 500; font-size: 115%; }
 
 papertitle { font-weight: 600; font-size: 100%; }
 
-.image { border-radius: 0.35em; border: 0; display: inline-block; position: relative; }
+.image { border-radius: 0.15em; border: 0; display: inline-block; position: relative; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
 
@@ -62,8 +62,6 @@ papertitle { font-weight: 600; font-size: 100%; }
 }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
-
-
 
 h3, h4, h5, h6 { font-weight: 600; color: #e9851a; margin: 0 0 20px; }
 
