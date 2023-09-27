@@ -58,7 +58,7 @@ papertitle { font-weight: 600; font-size: 100%; }
     padding: 0; /* Remove padding */
 }
 
-#header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
+#header .image.avatar { margin: 0 0 1em 0; width: 8.00em; overflow: hidden;  }
 
 h3, h4, h5, h6 { font-weight: 600; color: #e9851a; margin: 0 0 20px; }
 
