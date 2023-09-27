@@ -1,6 +1,6 @@
 # Basic Information 
 title: Ebru Evcen
-position: PhD Candidate in Linguistics
+position: PhD candidate in Linguistics
 affiliation: UC San Diego
 affiliation_link: https://linguistics.ucsd.edu
 #affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
@@ -30,7 +30,7 @@ favicon: ./assets/img/favicon.png
 
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+"Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
 # The following files will be removed from the generated website.
