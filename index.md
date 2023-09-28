@@ -13,7 +13,7 @@ I am a 4th year PhD candidate and researcher in the Linguistics department at Un
 
 Prior to arriving at UCSD, I completed my M.A. in .....
 
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/research.md %}
 
 {% include_relative _includes/presentations.md %}
 
