@@ -99,14 +99,13 @@ th { color: #444; }
 img { max-width: 100%; }
 
 header {
-    width: auto; /* Remove fixed width */
-    float: left;
-    position: fixed;
-    -webkit-font-smoothing: subpixel-antialiased;
-    padding-top: 5.5em;
-    text-align: center;
-    left: 0; /* Add this to ensure it doesn't extend too far to the left */
-}
+    width:232px;
+    float:left;
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;
+    padding-top:4.0em;
+    text-align:center
+  }
 header ul { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
 
 header li { width: 89px; float: left; border-right: 1px solid #e0e0e0; height: 40px; }
@@ -128,12 +127,11 @@ header ul li + li + li { border-right: none; width: 89px; }
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
 section {
-    width: auto; /* Remove fixed width */
-    float: right;
-    padding-top: 1.2em;
-    padding-bottom: 50px;
-    margin-left: 232px; /* Add margin to account for the header width */
-}
+    width:650px;
+    float:right;
+    padding-top:4.0em;
+    padding-bottom:50px;
+  }
 small { font-size: 11px; }
 
 hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
