@@ -1,15 +1,20 @@
 ---
+<h1 id="projects"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Projects</h2>
 
-# Implicatures and pragmatic inference
+<h4 style="margin:0 15px 0;">Implicatures and pragmatic inference</h4>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
-# Understanding counterfactuality
+<h4 style="margin:0 15px 0;">Understanding counterfactuality</h4>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
-# Pronoun resolution
+<h4 style="margin:0 15px 0;">Pronoun resolution</h4>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+
+
+
