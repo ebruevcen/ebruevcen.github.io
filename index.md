@@ -9,9 +9,9 @@ layout: homepage
 
 Hi there!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a 4th year PhD candidate and researcher in the Linguistics department at University of California San Diego, working with Dr. David Barner in the Psychology department. Also labs here...
 
-
+Prior to arriving at UCSD, I completed my M.A. in .....
 
 {% include_relative _includes/projects.md %}
 
