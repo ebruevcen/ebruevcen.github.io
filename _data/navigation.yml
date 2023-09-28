@@ -8,7 +8,7 @@ main:
     url: ./#presentations
 
   - title: "research"
-    url: _includes/research.md
+    ._includes/research.md
 
   - title: "about me"
     url: ./#about-me
