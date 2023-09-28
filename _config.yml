@@ -19,7 +19,7 @@ enable_last_update: false
 
 # Links
 #link_type: text #text/icon
-cv_link: 
+cv_link: .assets/files/curriculum_vitae.pdf
 github_link: https://github.com/ebruevcen
 linkedin: https://www.linkedin.com/in/ebru-evcen-10916498/
 twitter: https://twitter.com/evcen_ebru
