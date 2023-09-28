@@ -7,8 +7,8 @@ main:
   - title: "presentations"
     url: ./#presentations
 
-  - title: "projects"
-    url: ./#projects
+  - title: "research"
+    url: ./#research
 
   - title: "about me"
     url: ./#about-me
