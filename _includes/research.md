@@ -1,5 +1,3 @@
-permalink: /research/
----
 
 <h1 id="research"></h1>
 
