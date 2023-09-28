@@ -155,15 +155,15 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
 
-.image.avatar img { border-radius: 80%; width: 90%; padding: 20px; }
+.image.avatar img { border-radius: 80%; width: 80%; padding: 20px; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em;  }
 
-h3, h4, h5, h6 { font-weight: 600; color: black; margin: 0 0 20px; }
+h3, h4, h5, h6 { font-weight: 600; color: #e9851a; margin: 0 0 20px; }
 
 h1 { font-weight: 500; color: #e9851a; margin: 0 0 20px; }
 
-h2 { color: black; font-weight: 500; margin: 2px 0px 15px; font-size: 100%; }
+h2 { color: #e9851a; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
