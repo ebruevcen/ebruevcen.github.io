@@ -52,13 +52,9 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
 
-.image.avatar img {
-    border-radius: 0; /* Remove circular border radius */
-    width: 55%; /* Make the image take up the full width of the container */
-    padding: 0; /* Remove padding */
-}
+.image.avatar img { border-radius: 100%; width: 45%; padding: 20px; }
 
-#header .image.avatar { margin: 0 0 1em 0; width: 8.00em; overflow: hidden;  }
+#header .image.avatar { margin: 0 0 1em 0; width: 8.00em;  }
 
 h3, h4, h5, h6 { font-weight: 600; color: #e9851a; margin: 0 0 20px; }
 
