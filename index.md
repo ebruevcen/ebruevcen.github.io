@@ -14,6 +14,11 @@ Hi there!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
 
+{% include_relative _includes/research.md %}
+
+{% include_relative _includes/presentations.md %}
+
+{% include_relative _includes/publications.md %}
 
 
 
