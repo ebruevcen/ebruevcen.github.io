@@ -9,15 +9,11 @@ layout: homepage
 
 Hi there!
 
-I am a 4th year PhD candidate in the Linguistics department at University of California San Diego, working with David Barner in the Psychology department. Also labs here...
+...
 
-Prior to arriving at UCSD, I completed my M.A. in .....
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
-{% include_relative _includes/research.md %}
 
-{% include_relative _includes/presentations.md %}
-
-{% include_relative _includes/publications.md %}
 
 
 
