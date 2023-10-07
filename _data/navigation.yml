@@ -2,7 +2,7 @@ main:
 
 
   - title: "publications"
-    url: https://ebruevcen.github.io/_includes/publications.md
+    url: /publications/
 
   - title: "presentations"
     url: ./#presentations
