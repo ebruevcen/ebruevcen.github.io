@@ -1,7 +1,3 @@
----
-layout: default
-title: Publications
----
 
 <h1 id="publications"></h1>
 
