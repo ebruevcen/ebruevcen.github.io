@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include_relative _includes/presentations.md %}
 
-{% include_relative _includes/publications.md %}
+
 
 
 

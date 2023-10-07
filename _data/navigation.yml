@@ -2,7 +2,7 @@ main:
 
 
   - title: "publications"
-    url: ./#publications
+    url: {% include_relative _includes/publications.md %}
 
   - title: "presentations"
     url: ./#presentations
