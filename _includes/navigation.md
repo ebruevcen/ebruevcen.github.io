@@ -1,6 +1,3 @@
----
-layout: default
----
 
 {% for link in site.data.navigation %}
   {% if link.right %}
