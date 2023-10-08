@@ -1,5 +1,4 @@
 main:
- baseurl: /ebruevcen.github.io/
 
   - title: "publications"
     url: ./#publications
