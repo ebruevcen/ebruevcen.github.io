@@ -1,15 +1,15 @@
 main:
   - title: "resources"
-    url: /_includes/resources/
+    url: /resources/
 
   - title: "publications"
-    url: /_includes/publications/
+    url: /publications/
 
   - title: "presentations"
-    url: /includes/presentations/
+    url: /presentations/
 
   - title: "research"
-    url: /includes/research/
+    url: /research/
 
   - title: "about me"
     url: /
