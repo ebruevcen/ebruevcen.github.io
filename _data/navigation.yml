@@ -1,9 +1,9 @@
 main:
   - title: "resources"
-    url: /includes/resources/
+    url: /_includes/resources/
 
   - title: "publications"
-    url: /includes/publications/
+    url: /_includes/publications/
 
   - title: "presentations"
     url: /includes/presentations/
