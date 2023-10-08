@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "publications"
+title: ""
 permalink: /publications/
 ---
 
