@@ -1,3 +1,6 @@
+---
+ layout: default
+---
 
 <h1 id="publications"></h1>
 
