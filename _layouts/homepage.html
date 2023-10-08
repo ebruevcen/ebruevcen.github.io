@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }}'s {{title}}</title>
+    <title>{{ site.title }}</title>
     <meta charset="utf-8" />
     
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="{{ site.title }} | {{ site.affiliation }}">
     <meta property="og:description" content="{{ site.description }}">
     <meta property="og:locale" content="default">
-    <meta property="og:image" content="{{ site.avatar }}">
+    <meta property="og:image" content="{{ site.avatar |relative_url}}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
     <meta name="twitter:description" content="{{ site.description }}">
