@@ -1,5 +1,7 @@
 ---
- layout: default
+layout: homepage
+title: ""
+permalink: /publications/
 ---
 
 <h1 id="publications"></h1>
