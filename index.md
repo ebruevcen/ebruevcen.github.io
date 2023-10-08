@@ -1,5 +1,6 @@
 ---
  layout: homepage
+ permalink: /index/
 ---
  
 <h1 id="about-me"></h1>
