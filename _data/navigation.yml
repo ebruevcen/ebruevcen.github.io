@@ -1,7 +1,7 @@
 main:
 
   - title: "publications"
-    url: /publications.md
+    url: /publications/
 
   - title: "presentations"
     url: ./#presentations
