@@ -1,10 +1,8 @@
 ---
- layout: homepage
- title: Home
+layout: homepage
+title: Home
 permalink: /
 nav_order: 1
-
-
 ---
  
 <h1 id="about-me"></h1>
