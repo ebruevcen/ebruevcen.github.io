@@ -1,5 +1,4 @@
 ---
-layout: homepage
 title: ""
 permalink: /publications/
 ---
