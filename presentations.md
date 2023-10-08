@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ""
+title: "Presentations"
 permalink: /presentations/
 ---
 <h1 id="presentations"></h1>

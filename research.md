@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ""
+title: "Research"
 permalink: /research/
 ---
 <h1 id="research"></h1>
