@@ -1,5 +1,8 @@
 ---
- layout: default
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
 ---
 
 <h1 id="publications"></h1>
