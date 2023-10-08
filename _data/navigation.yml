@@ -1,8 +1,8 @@
 main:
- baseurl: "/ebruevcen.github.io"
+ baseurl: /ebruevcen.github.io/
 
   - title: "publications"
-    url: {% include_relative _includes/publications.md %}
+    url: ./#publications
 
   - title: "presentations"
     url: ./#presentations
