@@ -1,7 +1,10 @@
 ---
  layout: homepage
- title: ""
-permalink: /index/
+ title: Home
+permalink: /
+nav_order: 1
+
+
 ---
  
 <h1 id="about-me"></h1>
