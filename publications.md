@@ -2,7 +2,6 @@
 layout: homepage
 title: ""
 permalink: /publications/
-author_profile: true
 ---
 
 <h1 id="publications"></h1>
