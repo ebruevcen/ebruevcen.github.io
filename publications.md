@@ -1,6 +1,6 @@
 ---
-layout: default
-title: ""
+layout: homepage
+title: "publications"
 permalink: /publications/
 ---
 
