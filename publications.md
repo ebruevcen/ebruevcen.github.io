@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: homepage
 title: ""
 permalink: /publications/
 author_profile: true
