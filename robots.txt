@@ -1,11 +1,5 @@
 User-agent: *
-Allow: index.html
-Disallow: /assets/academicons/
-Disallow: /assets/css/
-Disallow: /assets/fonts/
-Disallow: /assets/fontawesome/
-Disallow: /assets/js/
-Disallow: /assets/mpii_files/
+Disallow: /assets/
 Disallow: /images/
 Disallow: /google_scholar_crawler/
 Disallow: /404.html
@@ -15,4 +9,4 @@ Disallow: /.github/
 Disallow: /git-update.sh
 Disallow: /README.md
 
-Sitemap: https://https://www.ebruevcen/github/io/sitemap.xml
+Sitemap: https://www.ebruevcen.github.io/sitemap.xml
