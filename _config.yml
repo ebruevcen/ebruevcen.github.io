@@ -11,11 +11,9 @@ keywords: evcen ebru, ebru evcen, evcen, ebruevcen
 canonical: https://ebruevcen.github.io/
 description: Ebru Evcen is a PhD candidate in Linguistics at the UC San Diego. Her research lies in psycholinguistics and experimental pragmatics.
 
-# The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: false
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
 #link_type: text #text/icon
@@ -31,7 +29,7 @@ favicon: ./assets/img/favicon.png
 
 
 # Footnote
-footnote: Powered by Jekyll and Minimal Light theme.
+footnote: Powered by Jekyll and [Minimal Light](https://github.com/yaoyao-liu/minimal-light) theme.
 #footnote: I respectfully acknowledge that we live and work on the land of the Kumeyaay/Kumiai nation. 
 enable_footnote: true
 
