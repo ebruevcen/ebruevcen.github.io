@@ -29,8 +29,7 @@ favicon: ./assets/img/favicon.png
 
 
 # Footnote
-footnote: Powered by Jekyll and Minimal Light theme.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank">Minimal Light</a> theme.  
 enable_footnote: true
 
 remote_theme: yaoyao-liu/minimal-light
