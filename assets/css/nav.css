@@ -120,17 +120,8 @@
     .topnav {
         height: 60px; /* Adjust the navbar height */
     }
-    .topnav a.icon {
-        font-size: 24px; /* Adjust the icon size */
-        line-height: 60px; /* Vertically center the icon */
-        padding: 0 16px; /* Adjust the icon padding */
-    }
-    .topnav img {
-        max-height: 40px; /* Ensure logo doesn't push elements */
-        margin: 10px 0; /* Center the logo vertically */
-    }
    
-   
+  
     .topnav #myLinks {
         display: none;
       }
