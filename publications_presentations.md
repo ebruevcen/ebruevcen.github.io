@@ -7,6 +7,9 @@ permalink: /publications_presentations/
 
 <h2 style="margin: 60px 0px 10px;">Publications</h2>
 
+- <b>Evcen, Ebru </b> & Barner, David (in prep). Already Perfect: The nature of conditional perfection
+
+- <b>Evcen, Ebru </b> & Wittenberg, Eva (in prep). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals
 
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). [Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub). *Cognitive Development*, 69, 101412.
 
