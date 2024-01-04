@@ -1,21 +1,23 @@
 ---
 layout: homepage
-title: "Presentations"
-permalink: /presentations/
+title: "Publications & Presentations"
+permalink: /publications_presentations/
 ---
-<h1 id="presentations"></h1>
+<h1 id="Publications"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Presentations</h2>
+<h2 style="margin: 60px 0px 10px;">Publications</h2>
 
+**Publications** 
 
-In hac habitasse platea dictumst. Morbi consequat mattis magna a pretium. Sed nulla orci, scelerisque et fringilla vitae, commodo in justo. 
+- Evcen, E. and Wittenberg, E. (2022). [Making the Question under Discussion explicit shifts counterfactual interpretation](https://escholarship.org/uc/item/43z0w42j). *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*, 1855–1862. [\[pdf\]](https://ebruevcen.github.io/assets/files/EvcenWittenberg2022.pdf)
 
-Vestibulum scelerisque urna aliquam consectetur efficitur. Ut ac commodo nibh. Curabitur felis ligula, convallis quis dictum quis, aliquam id velit. Nunc tempus sapien eros, ut scelerisque velit condimentum et. 
+- Özge, D. and Evcen, E. (2020). [Referential form, word order and emotional valence in Turkish pronoun resolution](https://www.degruyter.com/document/doi/10.1515/9783110686654-007/html). In U. Özge and D. Zeyrek (eds.). Turkish Discourse, Structure and Meaning. Trends in Linguistics Series, De Gruyter Publishing. [\[pdf\]](https://ebruevcen.github.io/assets/files/OzgeEvcen2020.pdf)
 
-Sed porttitor, dolor vel volutpat tempor, nisl tellus aliquam nunc, ac gravida nunc orci ut diam. Pellentesque faucibus tellus iaculis arcu auctor vehicula. Ut rutrum, justo nec ullamcorper dictum, turpis tortor porttitor nunc, vestibulum consectetur quam odio vitae felis.
+<h1 id="Presentations"></h1>
 
-Donec viverra, velit et maximus fringilla, sapien quam egestas felis, in laoreet dui enim in tellus. Cras pretium risus est, et pretium velit lobortis id. Praesent faucibus dignissim elementum. 
+<h2 style="margin: 60px 0px 10px;">Presnetations</h2>
 
-Sed quis pretium eros, id malesuada dolor. Vivamus porta risus massa, eget facilisis nisl gravida ut. Vivamus sit amet ullamcorper quam. Maecenas scelerisque felis magna, a convallis nibh gravida vitae. 
+**Presentations** 
 
-Etiam egestas egestas nulla et accumsan.
+Evcen, E. & Barner, D. (2023). Time course of conditional inferences. Poster presented at the 10th biennial meeting of Experimental Pragmatics (XPRAG), 20-22 September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
+
