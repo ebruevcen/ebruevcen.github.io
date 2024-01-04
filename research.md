@@ -17,17 +17,17 @@ This project investigates whether people in conditional reasoning initially adop
 
 <h4 style="margin:0 0 0;">Exploring Counterfactuals: Negation and Alternatives in Counterfactual Comprehension</h4>
 
-We examine how people comprehend counterfactual sentences and their interaction with negation and alternatives in language. Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
+Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
 
 We focus on how negation and the concept of alternatives shape our mental representations during this process. A negated counterfactual, like 'If there had been no zebras, there would have been no lions in the zoo', suggests a world without these animals, while implicitly confirming their existence in another scenario. These negated counterfactuals help answer implicit questions (QuD) by reducing uncertainty and creating specific mental images. Understanding these sentences requires simultaneously navigating the nuances of both hypothetical and actual states, highlighting the complexity of cognitive processing in language comprehension.
 
 
-<h4 style="margin:0 0 0;">Pronoun Resolution in Turkish</h4>
+<h4 style="margin:0 0 0;">Pronoun Resolution in Turkish*</h4>
 
 In natural communication settings, ambiguous referring expressions like 'she', 'that', 'there', 'then' are rarely encountered without context. They usually appear after a meaningful discourse, enabling the construction of plausible hypotheses about their reference. Even within coherent discourse, identifying the correct reference among multiple alternatives is complex, involving understanding who or what the utterance is about, the event, the participants and their roles, and the relationship of the utterance to other discourse elements.
 
 Specifically focusing on Turkish, this project examines how null and overt pronouns are interpreted across different verb types, coherence relations, valency, and word order. Turkish null-pronouns show a complex interplay between grammatical and pragmatic factors, while overt-pronouns are heavily influenced by grammatical factors. 
 
-
+*Joint work with Duygu Ozge
 
 
