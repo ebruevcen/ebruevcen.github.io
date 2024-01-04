@@ -11,8 +11,7 @@ permalink: /research/
 
 <h4 style="margin:0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
-&nbsp;&nbsp;<img src="conditionals.png" alt="double_gap_exp1" width="300"/>
-
+&nbsp;&nbsp;<img src="conditionals.png" alt="conditional perfection" width="200"/>
 
 Conditional reasoning, a crucial component of human cognition, often involves interpreting "if-then" scenarios in ways that surpass their literal, logical meanings. Take the statement "If you mow the lawn, you will receive five dollars" Logically, this holds true even if one gets five dollars for a different task, but people usually interpret it as "Only if you mow the lawn, you will receive five dollars." This is known as Conditional Perfection.
 
@@ -24,7 +23,8 @@ This project investigates whether people in conditional reasoning initially adop
 
 {::options parse_block_html="false" /}
 
---
+---
+
 {::options parse_block_html="true" /}
 
 
@@ -35,7 +35,7 @@ Counterfactuals enable us to imagine scenarios different from reality, often con
 We focus on how negation and the concept of alternatives shape our mental representations during this process. A negated counterfactual, like 'If there had been no zebras, there would have been no lions in the zoo', suggests a world without these animals, while implicitly confirming their existence in another scenario. These negated counterfactuals help answer implicit questions (QuD) by reducing uncertainty and creating specific mental images. Understanding these sentences requires simultaneously navigating the nuances of both hypothetical and actual states, highlighting the complexity of cognitive processing in language comprehension.
 
 {::options parse_block_html="false" /}
---
+---
 
 {::options parse_block_html="true" /}
 
