@@ -1,12 +1,6 @@
 main:
-  - title: "resources"
-    url: /resources/
-
-  - title: "publications"
-    url: /publications/
-
-  - title: "presentations"
-    url: /presentations/
+  - title: "publications & presentations"
+    url: /publications_presentations/
 
   - title: "research"
     url: /research/
