@@ -23,18 +23,19 @@ permalink: /research/
 
 ---
 
-<h4 style="margin:0 0 0;">Exploring Counterfactuals: Negation and Alternatives in Counterfactual Comprehension</h4>
+<h4 style="margin:0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
 <table>
   <tr>
     <td>
-      <img src="../assets/img/counterfactuals.png" alt="alternatives" width="300"/>
+      <img src="../assets/img/conditionals.png" alt="conditional perfection" width="300"/>
     </td>
-    <td>
-   Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.We focus on how negation and the concept of alternatives shape our mental representations during this process. A negated counterfactual, like 'If there had been no zebras, there would have been no lions in the zoo', suggests a world without these animals, while implicitly confirming their existence in another scenario. These negated counterfactuals help answer implicit questions (QuD) by reducing uncertainty and creating specific mental images. Understanding these sentences requires simultaneously navigating the nuances of both hypothetical and actual states, highlighting the complexity of cognitive processing in language comprehension.
+    <td style="vertical-align: top;">
+      Conditional reasoning, a crucial component of human cognition, often involves interpreting "if-then" scenarios in ways that surpass their literal, logical meanings. [... your text continues ...]
     </td>
   </tr>
 </table>
+
 
 
 ---
