@@ -101,19 +101,7 @@
     </style>
     <div class="wrapper">
       
-    <script>
-    document.getElementById("readMoreLink").onclick = function() {
-        var moreText = document.getElementById("moreText");
-        if (moreText.style.display === "none") {
-            moreText.style.display = "block";
-        } else {
-            moreText.style.display = "none";
-        }
-    }
-</script>
 
-</body>
-</html>
       
       
       <header>
@@ -228,5 +216,16 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+        <script>
+    document.getElementById("readMoreLink").onclick = function() {
+        var moreText = document.getElementById("moreText");
+        if (moreText.style.display === "none") {
+            moreText.style.display = "block";
+        } else {
+            moreText.style.display = "none";
+        }
+    }
+</script>
+
   </body>
 </html>
