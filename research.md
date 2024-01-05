@@ -7,7 +7,14 @@ permalink: /research/
 
 <h2 style="margin: 60px 0px 10px;">Research</h2>
 
+<h4 style="margin:0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
+<div>
+    <img src="../assets/img/conditionals.png" alt="conditional perfection" style="float: left; margin-right: 20px; width: 400px;" />
+    Conditional reasoning, a crucial component of human cognition, often involves interpreting "if-then" scenarios in ways that surpass their literal, logical meanings. [... your text continues ...]
+</div>
+
+---
 <h4 style="margin:0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
 <table>
