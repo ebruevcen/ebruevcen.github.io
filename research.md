@@ -28,7 +28,7 @@ permalink: /research/
 <h4 style="margin:0 0 0;">Pronoun Resolution in Turkish*</h4>
 
 <div>
-<p> In natural communication settings, ambiguous referring expressions like 'she', 'that', 'there', 'then' are rarely encountered without context. They usually appear after a meaningful discourse, enabling the construction of plausible hypotheses about their reference. Even within coherent discourse, identifying the correct reference among multiple alternatives is complex, involving understanding who or what the utterance is about, the event, the participants and their roles, and the relationship of the utterance to other discourse elements.Specifically focusing on Turkish, we examine how null and overt pronouns are interpreted across different verb types, coherence relations, valency, and word order. </p>
+<p> In natural communication settings, ambiguous referring expressions like 'she', 'that', 'there', 'then' are rarely encountered without context. They usually appear after a meaningful discourse, enabling the construction of plausible hypotheses about their reference. Even within coherent discourse, identifying the correct reference among multiple alternatives is complex, involving understanding who or what the utterance is about, the event, the participants and their roles, and the relationship of the utterance to other discourse elements. Focusing on Turkish, we examine how null and overt pronouns are interpreted across different verb types, coherence relations, valency, and word order. </p>
 
 <p> *Joint work with Duygu Ozge </p>
 

@@ -7,9 +7,9 @@ permalink: /publications_presentations/
 
 <h2 style="margin: 60px 0px 10px;">Publications</h2>
 
-- <b>Evcen, Ebru </b> & Barner, David (in prep). Already Perfect: The nature of conditional perfection
+- <b>Evcen, E. </b> & Barner, D. (in prep). Already Perfect: The nature of conditional perfection
 
-- <b>Evcen, Ebru </b> & Wittenberg, Eva (in prep). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals
+- <b>Evcen, E. </b> & Wittenberg, E. (in prep). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals
 
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). [Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub). *Cognitive Development*, 69, 101412.
 
@@ -33,9 +33,9 @@ permalink: /publications_presentations/
  
 - <b>Evcen, Ebru </b> Özge, Umut & Özge, Duygu (2019). Turkish “unless” is not biconditional unless the pragmatic context allows it. Poster presented at the 8th Experimental Pragmatics Conference (XPRAG), 19- 21 June, 2019, University of Edinburgh, Edinburgh, United Kingdom.
 
-- Özge, Duygu, <b>Evcen, Ebru </b>, Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts?.Paper presented at the 14th Workshop on Altaic Formal Linguistics (WAFL14), 19-21 October, 2018, Massachusetts Institute of Technology, Cambridge, MA.
+- Özge, Duygu, <b>Evcen, Ebru </b>, Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Paper presented at the 14th Workshop on Altaic Formal Linguistics (WAFL14), 19-21 October, 2018, Massachusetts Institute of Technology, Cambridge, MA.
 
-- Özge, Duygu, <b>Evcen, Ebru </b>,  Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts?.Paper presented at the 2nd International Conference on Prominence in Language (ICPL2), 9-11 July, 2018, University of Cologne, Cologne, Germany.
+- Özge, Duygu, <b>Evcen, Ebru </b>,  Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Paper presented at the 2nd International Conference on Prominence in Language (ICPL2), 9-11 July, 2018, University of Cologne, Cologne, Germany.
 
 
 
