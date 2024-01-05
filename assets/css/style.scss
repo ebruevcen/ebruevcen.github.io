@@ -1,4 +1,17 @@
 ---
 ---
+.more-text {
+    display: none;
+  }
+  
+  .read-more-link {
+    color: blue;
+    cursor: pointer;
+  }
+  
+  .read-more-link:active + .more-text, .read-more-link:focus + .more-text {
+    display: block;
+  }
 
+  
 @import "minimal-light";

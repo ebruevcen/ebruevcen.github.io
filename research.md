@@ -2,6 +2,7 @@
 layout: homepage
 title: "Research"
 permalink: /research/
+<link rel="stylesheet" href="_sass/minimal-light.css">
 ---
 <h1 id="research"></h1>
 
@@ -13,12 +14,14 @@ permalink: /research/
     <img src="../assets/img/conditionals.png" alt="conditional perfection" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
     Conditional reasoning, a crucial component of human cognition, often involves interpreting "if-then" scenarios in ways that goes beyond their literal, logical meanings. 
     <!-- Short summary here -->
-    <a href="#conditional-more" class="read-more-link">Read More</a>
-    <div id="conditional-more" class="more-text">
+    <a href="#" class="read-more-link">Read More</a>
+    <div class="more-text">
         <!-- Rest of the text -->
         <p>Take the statement "If you mow the lawn, you will receive five dollars". Logically, this holds true even if one gets five dollars for a different task, but people usually interpret it as "If and only if you mow the lawn, you will receive five dollars." This is known as Conditional Perfection...</p>
     </div>
 </div>
+
+
 
 <h4 style="margin:0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
