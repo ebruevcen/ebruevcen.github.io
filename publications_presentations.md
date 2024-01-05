@@ -19,7 +19,7 @@ permalink: /publications_presentations/
 
 <h1 id="Presentations"></h1>
 
-<h2 style="margin: 40px 0px 10px;">Presentations</h2>
+<h2 style="margin: 20px 0px 10px;">Presentations</h2>
 
 - <b>Evcen, Ebru</b> & Barner, David (2023). Time course of conditional inferences. Poster presented at the 10th biennial meeting of Experimental Pragmatics (XPRAG), 20-22 September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
 
