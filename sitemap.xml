@@ -7,7 +7,7 @@
     <url>
         <loc>https://www.ebruevcen.github.io/</loc>
         <priority>1.0</priority>
-        <lastmod>[2024-01-04]</lastmod>
+        <lastmod>2024-01-04</lastmod>
         <changefreq>monthly</changefreq>
     </url>
 
@@ -15,22 +15,23 @@
     <url>
         <loc>https://www.ebruevcen.github.io/research</loc>
         <priority>0.8</priority>
-        <lastmod>[2024-01-04]</lastmod>
+        <lastmod>2024-01-04</lastmod>
         <changefreq>monthly</changefreq>
     </url>
 
-    <!-- Add additional URLs as needed -->
-  <url>
+    <!-- Additional URLs -->
+    <url>
         <loc>https://www.ebruevcen.github.io/publications_presentations</loc>
         <priority>0.8</priority>
-        <lastmod>[2024-01-04]</lastmod>
+        <lastmod>2024-01-04</lastmod>
         <changefreq>monthly</changefreq>
     </url>
-       <!-- Add additional URLs as needed -->
-  <url>
+
+    <url>
         <loc>https://www.ebruevcen.github.io/cv</loc>
         <priority>0.8</priority>
-        <lastmod>[2024-01-04]</lastmod>
+        <lastmod>2024-01-04</lastmod>
         <changefreq>monthly</changefreq>
     </url>
 </urlset>
+
