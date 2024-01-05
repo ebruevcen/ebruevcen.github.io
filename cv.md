@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "CV"
+title: "cv"
 permalink: /cv/
 ---
 <h1 id="cv"></h1>
