@@ -26,4 +26,11 @@
         <lastmod>[2024-01-04]</lastmod>
         <changefreq>monthly</changefreq>
     </url>
+       <!-- Add additional URLs as needed -->
+  <url>
+        <loc>https://www.ebruevcen.github.io/cv</loc>
+        <priority>0.8</priority>
+        <lastmod>[2024-01-04]</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
 </urlset>
