@@ -25,7 +25,7 @@ permalink: /publications_presentations/
 
 - <b>Evcen, Ebru</b> & Wittenberg, Eva (2022). Negation facilitates comprehension of English counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 28), 7-9 September, 2022, University of York, United Kingdom [\[slides\]](https://ebruevcen.github.io/assets/files/AMLaP22_EvcenWittenberg.pdf)
 
-- <b>Evcen, Ebru</b> &  Wittenberg, Eva (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Poster presented at The 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/assets/files/CogSci22_EvcenWittenberg_Final.pdf)
+- <b>Evcen, Ebru</b> &  Wittenberg, Eva (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Poster presented at the 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/assets/files/CogSci22_EvcenWittenberg_Final.pdf)
 
 - Özge, Duygu, <b>Evcen, Ebru</b> & Hartshorne, Joshua (2022). Implicit causality biases in Turkish psychological state events. Talk given at the 3rd International Conference on Prominence in Language (ICPL3), 2-3 June, 2022, University of Cologne, Cologne, Germany.
 
