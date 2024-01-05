@@ -23,7 +23,7 @@ permalink: /publications_presentations/
 
 - <b>Evcen, Ebru</b> & Barner, David (2023). Time course of conditional inferences. Poster presented at the 10th biennial meeting of Experimental Pragmatics (XPRAG), 20-22 September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
 
-- <b>Evcen, Ebru</b> & Wittenberg, Eva (2022). Negation facilitates comprehension of English counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 28), 7-9 September, 2022, University of York, United Kingdom [\[slides\]]()
+- <b>Evcen, Ebru</b> & Wittenberg, Eva (2022). Negation facilitates comprehension of English counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 28), 7-9 September, 2022, University of York, United Kingdom [\[slides\]](https://ebruevcen.github.io/assets/files/AMLaP22_EvcenWittenberg.pdf)
 
 - <b>Evcen, Ebru</b> &  Wittenberg, Eva (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Poster presented at The 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]]()
 
