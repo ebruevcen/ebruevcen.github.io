@@ -13,7 +13,7 @@ Hi there!
 
 I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I am a member of [Language & Development Lab](https://ladlab.ucsd.edu), where I am advised by David Barner. 
 
-My research primarily focuses on psycholinguistics and experimental pragmatics. Specifically, I explore how we incrementally build mental representations of events as language unfolds, and I'm intrigued by the process through which listeners develop rich linguistic meanings during comprehension. Using behavioral methods, I investigate how we arrive at interpretations of utterances that go beyond what is literally said. 
+My research primarily focuses on psycholinguistics and experimental pragmatics. Specifically, I explore how we incrementally build mental representations of events as language unfolds, and I'm interested in the process through which listeners develop rich linguistic meanings during comprehension. Using behavioral methods, I investigate how we arrive at interpretations of utterances that go beyond what is literally said. 
 
 I am also associated with the [Language and Cognition Lab](https://lcl.ceu.edu) at Central European University (Vienna, Austria), where I work with Eva Wittenberg.
 
