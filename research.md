@@ -2,7 +2,6 @@
 layout: homepage
 title: "Research"
 permalink: /research/
-<link rel="stylesheet" href="_sass/minimal-light.css">
 ---
 <h1 id="research"></h1>
 
