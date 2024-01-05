@@ -2,6 +2,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif; color: black  ; font-weight: 400; margin: 0; }
 
+.more-text {
+  display: none;
+}
+
+.read-more-link {
+  color: blue;
+  cursor: pointer;
+}
+
 .pub-row {
     display: flex; 
     align-items: center;}
@@ -232,6 +241,8 @@ section {
     padding-bottom:50px;
   }
 small { font-size: 11px; }
+
+
 
 hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
