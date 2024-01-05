@@ -13,7 +13,7 @@ permalink: /research/
 <table>
   <tr>
     <td>
-<img src="./assets/img/conditionals.png" alt="conditional perfection" width="300"/>
+    <img src="../assets/img/conditionals.png" alt="conditional perfection" width="300"/>
     </td>
     <td>
     Conditional reasoning, a crucial component of human cognition, often involves interpreting "if-then" scenarios in ways that surpass their literal, logical meanings. Take the statement "If you mow the lawn, you will receive five dollars" Logically, this holds true even if one gets five dollars for a different task, but people usually interpret it as "Only if you mow the lawn, you will receive five dollars." This is known as Conditional Perfection.This pattern of adding meaning to conditional statements reflects our general skill in drawing pragmatic inferences from language. We frequently understand utterances more deeply than their explicit content suggests. For example, "Mary had cheesecake for dessert" often implies she had only cheesecake, and "I ate some of your cookies" suggests I didn't eat all of them. We make these inferences swiftly during real-time language processing. This project investigates whether people in conditional reasoning initially adopt a non-logical, pragmatic interpretation or begin with a logical view and then shift to a more nuanced understanding. By examining how we process conditional statements and enrich literal language, we contribute the interplay between human cognition and language comprehension.
@@ -26,7 +26,7 @@ permalink: /research/
 
 <h4 style="margin:0 0 0;">Exploring Counterfactuals: Negation and Alternatives in Counterfactual Comprehension</h4>
 
-<img src="./assets/img/counterfactuals.png" alt="alternatives" width="300"/>
+<img src="../assets/img/counterfactuals.png" alt="alternatives" width="300"/>
 
 
 Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
