@@ -2,8 +2,10 @@
 layout: homepage
 title: "Home"
 permalink: /
+<meta name="google-site-verification" content="nZt2ScLWwucTc67Rz1THwEbCLbE0vpRpW-Yh0G5b-3o" />
+
 ---
- 
+
 <h1 id="about-me"></h1>
 
 <h2 style="margin: 60px 0px 10px;">About me</h2>
