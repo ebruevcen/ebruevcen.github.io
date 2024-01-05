@@ -7,7 +7,7 @@ permalink: /research/
 
 <h2 style="margin: 60px 0px 10px;">Research</h2>
 
-<h4 style="margin:0 0 0;">Research areas:/h4> Experimental semantics and pragmatics; Psycholinguistics; Cognitive science.
+<h4 style="margin:0 0 0;">Research areas:</h4> Experimental semantics and pragmatics; Psycholinguistics; Cognitive science.
 
 <h4 style="margin:0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
@@ -19,6 +19,7 @@ permalink: /research/
   We frequently understand utterances more deeply than their explicit content suggests. For example, "Mary had cheesecake for dessert" often implies she had only cheesecake, and "I ate some of your cookies" suggests I didn't eat all of them. We make these inferences swiftly during real-time language processing. In this project, we investigate how this feat is accomplished: Do listeners in initially adopt a non-logical, pragmatic interpretation or begin with a logical meaning and then enrich the conditional statement via inference?
 </div>
 
+---
 
 <h4 style="margin:0 0 0;">Negation and Alternatives in Counterfactual Comprehension</h4>
 
