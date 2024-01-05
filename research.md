@@ -23,8 +23,9 @@ permalink: /research/
 <h4 style="margin:20px 0 0 0;">Negation and Alternatives in Counterfactual Comprehension</h4>
 
 <div>
-<img src="../assets/img/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 220px; height: auto;" />   Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
- <a href="javascript:void(0);" id="readMoreLink">Read More</a>
+<img src="../assets/img/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 220px; height: auto;" />  
+Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
+<a href="javascript:void(0);" id="readMoreLink">Read More</a>
    <div class="more-text" id="moreText" style="display: none;">
  Using web-based eye tracking, we focus on how negation and the availability of alternatives shape our mental representations during this process. A negated counterfactual, like 'If there had been no zebras, there would have been no lions in the zoo', suggests a world without these animals, while implicitly confirming their existence. These negated counterfactuals help answer the implicit Question under Discussion (QuD) by reducing uncertainty and creating specific mental images. This interaction indicates that the cognitive effort in comprehending counterfactuals primarily arises from uncertainty over alternative states and QuD accommodation. 
 </div>
