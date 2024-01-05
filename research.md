@@ -34,3 +34,16 @@ permalink: /research/
 
 </div>
 
+---
+<h4 style="margin:0 0 0;">Read More*</h4>
+
+<div>
+    <p>Short summary of the text...</p>
+    <a href="javascript:void(0);" id="readMoreLink">Read More</a>
+    <div class="more-text" id="moreText" style="display: none;">
+        <p>The rest of the text that was hidden...</p>
+    </div>
+</div>
+
+
+
