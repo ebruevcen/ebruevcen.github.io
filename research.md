@@ -16,7 +16,7 @@ permalink: /research/
 </div>
 
 ---
-<h4 style="margin:0 0 0;">Exploring Counterfactuals: Negation and Alternatives in Counterfactual Comprehension"</h4>
+<h4 style="margin:0 0 0;">Negation and Alternatives in Counterfactual Comprehension</h4>
 
 <div>
 <img src="../assets/img/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 200px; height: auto;" />   Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.

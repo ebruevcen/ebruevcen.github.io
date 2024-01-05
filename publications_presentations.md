@@ -21,21 +21,21 @@ permalink: /publications_presentations/
 
 <h2 style="margin: 60px 0px 10px;">Presentations</h2>
 
-- <b>Evcen, Ebru </b> & Barner, David (2023). Time course of conditional inferences. Poster presented at the 10th biennial meeting of Experimental Pragmatics (XPRAG), 20-22 September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
+- <b>Evcen, Ebru</b> & Barner, David (2023). Time course of conditional inferences. Poster presented at the 10th biennial meeting of Experimental Pragmatics (XPRAG), 20-22 September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
 
-- <b>Evcen, Ebru </b> & Wittenberg, Eva (2022). Negation facilitates comprehension of English counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 28), 7-9 September, 2022, University of York, United Kingdom [\[slides\]]()
+- <b>Evcen, Ebru</b> & Wittenberg, Eva (2022). Negation facilitates comprehension of English counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 28), 7-9 September, 2022, University of York, United Kingdom [\[slides\]]()
 
-- <b>Evcen, Ebru </b> &  Wittenberg, Eva (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Poster presented at The 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]]()
+- <b>Evcen, Ebru</b> &  Wittenberg, Eva (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Poster presented at The 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]]()
 
-- <b>Evcen, Ebru </b> &  Wittenberg, Eva (2021). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 27), 2-4 September, 2021, Université de Paris, France. [\[slides\]]()
+- <b>Evcen, Ebru</b> &  Wittenberg, Eva (2021). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 27), 2-4 September, 2021, Université de Paris, France. [\[slides\]]()
 
-- Özge, Duygu, <b>Evcen, Ebru </b> & Hartshorne, Joshua (2020). Referential form, word order and emotional valence in Turkish pronoun resolution. Poster presented at the 33rd Annual CUNY Human Sentence Processing Conference (CUNY), 19-21 March, 2020, University of Massachusets, Amherst, United States
+- Özge, Duygu, <b>Evcen, Ebru</b> & Hartshorne, Joshua (2020). Referential form, word order and emotional valence in Turkish pronoun resolution. Poster presented at the 33rd Annual CUNY Human Sentence Processing Conference (CUNY), 19-21 March, 2020, University of Massachusets, Amherst, United States
  
-- <b>Evcen, Ebru </b> Özge, Umut & Özge, Duygu (2019). Turkish “unless” is not biconditional unless the pragmatic context allows it. Poster presented at the 8th Experimental Pragmatics Conference (XPRAG), 19- 21 June, 2019, University of Edinburgh, Edinburgh, United Kingdom.
+- <b>Evcen, Ebru,</b> Özge, Umut & Özge, Duygu (2019). Turkish “unless” is not biconditional unless the pragmatic context allows it. Poster presented at the 8th Experimental Pragmatics Conference (XPRAG), 19- 21 June, 2019, University of Edinburgh, Edinburgh, United Kingdom.
 
-- Özge, Duygu, <b>Evcen, Ebru </b>, Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Paper presented at the 14th Workshop on Altaic Formal Linguistics (WAFL14), 19-21 October, 2018, Massachusetts Institute of Technology, Cambridge, MA.
+- Özge, Duygu, <b>Evcen, Ebru</b>, Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Paper presented at the 14th Workshop on Altaic Formal Linguistics (WAFL14), 19-21 October, 2018, Massachusetts Institute of Technology, Cambridge, MA.
 
-- Özge, Duygu, <b>Evcen, Ebru </b>,  Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Paper presented at the 2nd International Conference on Prominence in Language (ICPL2), 9-11 July, 2018, University of Cologne, Cologne, Germany.
+- Özge, Duygu, <b>Evcen, Ebru</b>,  Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Paper presented at the 2nd International Conference on Prominence in Language (ICPL2), 9-11 July, 2018, University of Cologne, Cologne, Germany.
 
 
 
