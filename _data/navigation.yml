@@ -1,6 +1,4 @@
 main:
-  - title: "cv"
-    url: /cv/
 
   - title: "publications & presentations"
     url: /publications_presentations/
