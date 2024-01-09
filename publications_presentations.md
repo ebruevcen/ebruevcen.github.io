@@ -21,23 +21,23 @@ permalink: /publications_presentations/
 
 <h2 style="margin: 20px 0px 10px;">Presentations</h2>
 
-- <b>Evcen, Ebru</b> & Barner, David (2023). Time course of conditional inferences. Poster presented at the 10th biennial meeting of Experimental Pragmatics (XPRAG), 20-22 September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
+- <b>Evcen, E.</b> & Barner, D. (2023). Time course of conditional inferences. Poster at the 10th biennial meeting of Experimental Pragmatics (XPRAG), 20-22 September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
 
-- <b>Evcen, Ebru</b> & Wittenberg, Eva (2022). Negation facilitates comprehension of English counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 28), 7-9 September, 2022, University of York, United Kingdom [\[slides\]](https://ebruevcen.github.io/assets/files/AMLaP22_EvcenWittenberg.pdf)
+- <b>Evcen, E.</b> & Wittenberg, E. (2022). Negation facilitates comprehension of English counterfactuals. Short talk at Architectures and Mechanisms for Language Processing (AMLaP 28), 7-9 September, 2022, University of York, United Kingdom [\[slides\]](https://ebruevcen.github.io/assets/files/AMLaP22_EvcenWittenberg.pdf)
 
-- <b>Evcen, Ebru</b> &  Wittenberg, Eva (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Poster presented at the 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/assets/files/CogSci22_EvcenWittenberg_Final.pdf)
+- <b>Evcen, E.</b> &  Wittenberg, E. (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Short talk at the 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/assets/files/CogSci22_EvcenWittenberg_Final.pdf)
 
-- Özge, Duygu, <b>Evcen, Ebru</b> & Hartshorne, Joshua (2022). Implicit causality biases in Turkish psychological state events. Talk given at the 3rd International Conference on Prominence in Language (ICPL3), 2-3 June, 2022, University of Cologne, Cologne, Germany.
+- Özge, D., <b>Evcen, E.</b> & Hartshorne, J. (2022). Implicit causality biases in Turkish psychological state events. Talk at the 3rd International Conference on Prominence in Language (ICPL3), 2-3 June, 2022, University of Cologne, Cologne, Germany.
 
-- <b>Evcen, Ebru</b> &  Wittenberg, Eva (2021). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP 27), 2-4 September, 2021, Université de Paris, France. [\[slides\]]()
+- <b>Evcen, E.</b> &  Wittenberg, E. (2021). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals. Short talk at Architectures and Mechanisms for Language Processing (AMLaP 27), 2-4 September, 2021, Université de Paris, France. [\[slides\]]()
 
-- Özge, Duygu, <b>Evcen, Ebru</b> & Hartshorne, Joshua (2020). Referential form, word order and emotional valence in Turkish pronoun resolution. Poster presented at the 33rd Annual CUNY Human Sentence Processing Conference (CUNY), 19-21 March, 2020, University of Massachusets, Amherst, United States
+- Özge, D., <b>Evcen, E.</b> & Hartshorne, J. (2020). Referential form, word order and emotional valence in Turkish pronoun resolution. Poster at the 33rd Annual CUNY Human Sentence Processing Conference (CUNY), 19-21 March, 2020, University of Massachusets, Amherst, United States
  
-- <b>Evcen, Ebru,</b> Özge, Umut & Özge, Duygu (2019). Turkish “unless” is not biconditional unless the pragmatic context allows it. Poster presented at the 8th Experimental Pragmatics Conference (XPRAG), 19- 21 June, 2019, University of Edinburgh, Edinburgh, United Kingdom.
+- <b>Evcen, E.,</b> Özge, U. & Özge, D. (2019). Turkish “unless” is not biconditional unless the pragmatic context allows it. Poster at the 8th Experimental Pragmatics Conference (XPRAG), 19- 21 June, 2019, University of Edinburgh, Edinburgh, United Kingdom.
 
-- Özge, Duygu, <b>Evcen, Ebru</b>, Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Talk given at the 14th Workshop on Altaic Formal Linguistics (WAFL14), 19-21 October, 2018, Massachusetts Institute of Technology, Cambridge, MA.
+- Özge, D., <b>Evcen, E.</b>, Kesici, A. & Köse, E. (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Talk at the 14th Workshop on Altaic Formal Linguistics (WAFL14), 19-21 October, 2018, Massachusetts Institute of Technology, Cambridge, MA.
 
-- Özge, Duygu, <b>Evcen, Ebru</b>,  Kesici, Alper & Köse, Engin (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Talk given at the 2nd International Conference on Prominence in Language (ICPL2), 9-11 July, 2018, University of Cologne, Cologne, Germany.
+- Özge, D., <b>Evcen, E.</b>,  Kesici, A. & Köse, E. (2018). How do Turkish speakers interpret pronouns in Transfer-of-Possesion contexts? Talk at the 2nd International Conference on Prominence in Language (ICPL2), 9-11 July, 2018, University of Cologne, Cologne, Germany.
 
 
 
