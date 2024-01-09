@@ -27,7 +27,7 @@ permalink: /publications_presentations/
 
 - <b>Evcen, E.</b> &  Wittenberg, E. (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Short talk at the 44th Annual Meeting of the Cognitive Science Society (CogSci), July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/assets/files/CogSci22_EvcenWittenberg_Final.pdf)
 
-- <b>Evcen, E.</b> & Özge, D. (2022). Pronoun resolution in Turkish Transfer-of-possession verbs: Evidence from comprehension and production. Talk at the 3rd Cologne Ankara Discourse Meeting CADiM3), July, 2022, University of Cologne, Cologne, Germany.
+- <b>Evcen, E.</b> & Özge, D. (2022). Pronoun resolution in Turkish Transfer-of-possession verbs: Evidence from comprehension and production. Talk at the 3rd Cologne Ankara Discourse Meeting (CADiM3), July, 2022, University of Cologne, Cologne, Germany.
 
 - Özge, D., <b>Evcen, E.</b> & Hartshorne, J. (2022). Implicit causality biases in Turkish psychological state events. Talk at the 3rd International Conference on Prominence in Language (ICPL3), June, 2022, University of Cologne, Cologne, Germany.
 
