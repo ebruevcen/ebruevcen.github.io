@@ -27,6 +27,8 @@ permalink: /publications_presentations/
 
 - <b>Evcen, E.</b> &  Wittenberg, E. (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Short talk at the 44th Annual Meeting of the Cognitive Science Society (CogSci), 27-30 July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/assets/files/CogSci22_EvcenWittenberg_Final.pdf)
 
+- <b>Evcen, E.</b> & Özge, D. (2022). Pronoun resolution in Turkish Transfer-of-possession verbs: Evidence from comprehension and production. Talk at the 3rd Cologne Ankara Discourse Meeting (CADiM3), 1 July, 2022, University of Cologne, Cologne, Germany.
+
 - Özge, D., <b>Evcen, E.</b> & Hartshorne, J. (2022). Implicit causality biases in Turkish psychological state events. Talk at the 3rd International Conference on Prominence in Language (ICPL3), 2-3 June, 2022, University of Cologne, Cologne, Germany.
 
 - <b>Evcen, E.</b> &  Wittenberg, E. (2021). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals. Short talk at Architectures and Mechanisms for Language Processing (AMLaP 27), 2-4 September, 2021, Université de Paris, France. [\[slides\]]()
