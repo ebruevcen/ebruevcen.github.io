@@ -8,4 +8,4 @@ I am also associated with the Language and Cognition Lab at Central European Uni
 
 Before my Ph.D., I earned a master's degree in English Language Teaching from the Middle East Technical University (Ankara, Turkey), where I was part of the Language and Cognitive Development Lab, led by Duygu Özge.
 
-My CV can be found here.
+
