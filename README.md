@@ -1,6 +1,6 @@
 # The Minimal Light Theme
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/ebruevcen/minimal-light/blob/main/LICENSE)
 
  
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
