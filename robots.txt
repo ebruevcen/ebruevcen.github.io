@@ -12,3 +12,4 @@ Sitemap: https://www.ebruevcen.github.io/sitemap.xml
 
 google-site-verification=mpDoEW66co_afYBaKhv8SqSK3aH7QaG4bMREqOExOKM
 
+google-site-verification: google8557713c19d9dfa9.html
