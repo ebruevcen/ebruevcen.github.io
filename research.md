@@ -13,7 +13,7 @@ permalink: /research/
 
 <div>
 <img src="../assets/img/conditionals.png" alt="conditional perfection" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
-    Conditional reasoning, a crucial component of human cognition, often involves interpreting 'if-then' scenarios in ways that goes beyond their literal, logical meanings. For instance, consider the following conditional statement: 'If you mow the lawn, you will receive five dollars'. Logically, this holds true even if one gets five dollars for a different task, but people usually interpret it as 'If and only if you mow the lawn, you will receive five dollars.' This is known as Conditional Perfection.
+    Why is the response "Wait, what if I don't?" taken humorously when someone says "if you want, there are cookies in the cupboard," yet it's completely reasonable to ask the same question in response to "if you mow the lawn, you'll receive 5 dollars"?
      <a href="javascript:void(0);" id="readMoreLink1">Read More</a>
    <div class="more-text" id="moreText1" style="display: none;">
   We frequently understand utterances more deeply than their explicit content suggests. For example, "Mary had cheesecake for dessert" often implies she had only cheesecake, and "I ate some of your cookies" suggests I didn't eat all of them. We make these inferences swiftly during real-time language processing. In this project, with <a href="https://psychology.ucsd.edu/people/profiles/dbarner.html" target="_blank">David Barner</a>, we investigate how this feat is accomplished: Do listeners in initially adopt a non-logical, pragmatic interpretation or begin with a logical meaning and then enrich the conditional statement via inference?
