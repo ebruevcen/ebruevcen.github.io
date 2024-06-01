@@ -40,6 +40,5 @@ exclude:
   - build.sh
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
   - CNAME
