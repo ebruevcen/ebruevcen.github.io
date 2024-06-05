@@ -7,9 +7,9 @@ permalink: /publications_presentations/
 
 <h2 style="margin: 50px 0px 10px;">Publications</h2>
 
-- <b>Evcen, E. </b> & Barner, D. (in prep). Already Perfect: The nature of conditional perfection
+- <b>Evcen, E. </b> & Barner, D. (under review). (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [psyarxiv](https://osf.io/preprints/psyarxiv/mv3y8)
 
-- <b>Evcen, E. </b> & Wittenberg, E. (in prep). The Consideration of Alternatives During Incremental Comprehension of Counterfactuals
+- <b>Evcen, E.</b> and Wittenberg, E. (to appear). Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals. Proceedings of the 46th Annual Meeting of the Cognitive Science Society.
 
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). [Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub). *Cognitive Development*, 69, 101412.
 
@@ -20,6 +20,10 @@ permalink: /publications_presentations/
 <h1 id="Presentations"></h1>
 
 <h2 style="margin: 20px 0px 10px;">Presentations</h2>
+
+- <b>Evcen, E.</b> & Barner, D. (2024). Already Perfect: Conditional Statements. Poster at Experiments in Linguistics Meaning 3 (ELM 3), June 2024, University of Pennsylvania, Philadelphia, United States
+
+- <b>Evcen, E.</b> & Barner, D. (2024). Conditional inferences are derived without delay. Poster at the 6th California Meeting on Psycholinguistics (CAMP 6), January 2024, Stanford University, CA, United States
 
 - <b>Evcen, E.</b> & Barner, D. (2023). Time course of conditional inferences. Poster at the 10th biennial meeting of Experimental Pragmatics (XPRAG), September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
 
