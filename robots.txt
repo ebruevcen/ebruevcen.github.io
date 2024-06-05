@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: /assets/
 Disallow: /images/
-Disallow: /404.html
 Disallow: /LICENSE
 Disallow: /.gitignore
 Disallow: /.github/
@@ -10,4 +9,3 @@ Disallow: /git-update.sh
 Sitemap: https://www.ebruevcen.github.io/sitemap.xml
 
 
-google-site-verification: google8557713c19d9dfa9.html
