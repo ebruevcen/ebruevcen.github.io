@@ -9,7 +9,7 @@ permalink: /publications_presentations/
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [psyarxiv](https://osf.io/preprints/psyarxiv/mv3y8)
 
-- <b>Evcen, E.</b> and Wittenberg, E. (to appear). Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals. Proceedings of the 46th Annual Meeting of the Cognitive Science Society.
+- <b>Evcen, E.</b> and Wittenberg, E. (to appear). Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
 
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). [Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub). *Cognitive Development*, 69, 101412.
 
