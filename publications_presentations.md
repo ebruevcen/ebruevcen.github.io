@@ -21,11 +21,11 @@ permalink: /publications_presentations/
 
 <h2 style="margin: 20px 0px 10px;">Presentations</h2>
 
-- <b>Evcen, E.</b> & Barner, D. (2024). Already Perfect: Conditional Statements. Poster at Experiments in Linguistics Meaning 3 (ELM 3), June 2024, University of Pennsylvania, Philadelphia, United States
+- <b>Evcen, E.</b> & Barner, D. (2024). Already Perfect: Conditional Statements. Poster at Experiments in Linguistics Meaning 3 (ELM 3), June 2024, University of Pennsylvania, Philadelphia, United States [\[poster\]](https://ebruevcen.github.io/assets/files/ELM3_poster.pdf)
 
-- <b>Evcen, E.</b> & Barner, D. (2024). Conditional inferences are derived without delay. Poster at the 6th California Meeting on Psycholinguistics (CAMP 6), January 2024, Stanford University, CA, United States
+- <b>Evcen, E.</b> & Barner, D. (2024). Conditional inferences are derived without delay. Poster at the 6th California Meeting on Psycholinguistics (CAMP 6), January 2024, Stanford University, CA, United States [\[poster\]](https://ebruevcen.github.io/assets/files/camp6_poster.pdf)
 
-- <b>Evcen, E.</b> & Barner, D. (2023). Time course of conditional inferences. Poster at the 10th biennial meeting of Experimental Pragmatics (XPRAG), September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://osf.io/9xkrf)
+- <b>Evcen, E.</b> & Barner, D. (2023). Time course of conditional inferences. Poster at the 10th biennial meeting of Experimental Pragmatics (XPRAG), September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://ebruevcen.github.io/assets/files/ebru_xprag.pdf)
 
 - <b>Evcen, E.</b> & Wittenberg, E. (2022). Negation facilitates comprehension of English counterfactuals. Short talk at Architectures and Mechanisms for Language Processing (AMLaP 28), September, 2022, University of York, United Kingdom [\[slides\]](https://ebruevcen.github.io/assets/files/AMLaP22_EvcenWittenberg.pdf)
 
