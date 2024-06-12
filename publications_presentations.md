@@ -9,11 +9,11 @@ permalink: /publications_presentations/
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [psyarxiv](https://osf.io/preprints/psyarxiv/mv3y8)
 
-- <b>Evcen, E.</b> and Wittenberg, E. (2024). [Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals](https://escholarship.org/uc/item/1rx1b25r#main). *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
+- <b>Evcen, E.</b> and Wittenberg, E. (2024). [Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals](https://escholarship.org/uc/item/1rx1b25r#main). *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, 4893-4900.
 
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). [Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub). *Cognitive Development*, 69, 101412.
 
-- <b>Evcen, E.</b> and Wittenberg, E. (2022). [Making the Question under Discussion explicit shifts counterfactual interpretation](https://escholarship.org/uc/item/43z0w42j). *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*, 1855–1862. [\[pdf\]](https://ebruevcen.github.io/assets/files/EvcenWittenberg2022.pdf)
+- <b>Evcen, E.</b> and Wittenberg, E. (2022). [Making the Question under Discussion explicit shifts counterfactual interpretation](https://escholarship.org/uc/item/43z0w42j). *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*, 1855–1862. 
 
 - Özge, D. and <b>Evcen, E.</b> (2020). [Referential form, word order and emotional valence in Turkish pronoun resolution](https://www.degruyter.com/document/doi/10.1515/9783110686654-007/html). In U. Özge and D. Zeyrek (eds.). Turkish Discourse, Structure and Meaning. Trends in Linguistics Series, De Gruyter Publishing. [\[pdf\]](https://ebruevcen.github.io/assets/files/OzgeEvcen2020.pdf)
 
