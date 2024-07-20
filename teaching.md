@@ -12,13 +12,13 @@ permalink: /teaching/
   LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
   [Course website](https://sites.google.com/ucsd.edu/lign170/home)
 
-- <b>Graduate Teaching Consultant</b> (Summer 2024 - Present)  
+- <b>Teaching Consultant</b> (Summer 2024 - Present)  
   *Engaged Teaching Hub, UC San Diego*.      
   Introduction to College Teaching.   
   English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
   
 
-- <b>Graduate Teaching Assistant</b> (Fall 2020 - Spring 2024)  
+- <b>Teaching Assistant</b> (Fall 2020 - Spring 2024)  
   *Department of Linguistics, UC San Diego*.           
   LIGN 130: Semantics (Spring 2024) (2 sections)  
   LIGN 121: Syntax I (Winter 2024) (2 sections)  
