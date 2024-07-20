@@ -13,7 +13,7 @@ permalink: /teaching/
   [Course website](https://sites.google.com/ucsd.edu/lign170/home)
 
 - <b>Graduate Teaching Consultant</b> (Summer 2024 - Present)  
-  *Engaged Teaching Hub, UC San Diego*. 
+  *Engaged Teaching Hub, UC San Diego*.      
   Introduction to College Teaching.   
   English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
   
