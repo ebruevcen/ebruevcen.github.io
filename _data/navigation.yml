@@ -1,4 +1,6 @@
 main:
+  - title: "teaching"
+    url: /teaching/
 
   - title: "publications & presentations"
     url: /publications_presentations/
