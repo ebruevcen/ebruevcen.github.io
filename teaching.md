@@ -26,6 +26,6 @@ permalink: /teaching/
   LIGN 8: Languages and Cultures of America (Fall 2020; Winter 2021)
 
 - <b>Language Instructor</b> (2016 - 2020)  
-  *Department of Foreign Languages, TOBB University of Economics and Technology*
+  *Department of Foreign Languages, TOBB University of Economics and Technology*.  
     Preparatory English Program  
     English for Academic Purposes (EAP)
