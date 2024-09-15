@@ -2,7 +2,9 @@
 layout: homepage
 title: "Publications & Presentations"
 permalink: /publications_presentations/
+author_profile: true
 ---
+
 <h1 id="Publications"></h1>
 
 <h2 style="margin: 50px 0px 10px;">Publications</h2>

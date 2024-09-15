@@ -1,7 +1,9 @@
+
 ---
-layout: homepage
-title: "Home"
 permalink: /
+title: ""
+author_profile: true
+redirect_from: /About Me/
 ---
 
 <h1 id="about-me"></h1>
