@@ -1,8 +1,11 @@
 ---
-layout: homepage
+layout: archieve
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
+
+
 <h1 id="Teaching"></h1>
 
 <h2 style="margin: 50px 0px 20px;">Teaching</h2>
