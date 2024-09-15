@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: /about/
 ---
 
-<h1 id="about-me"></h1>
+<h1 id="about"></h1>
 
 <h2 style="margin: 50px 0px 10px;">About me</h2>
 
