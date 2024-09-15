@@ -1,9 +1,9 @@
 
 ---
-permalink: /index/
+permalink: /
 title: ""
 author_profile: true
-redirect_from: /About Me/
+redirect_from: /about/
 ---
 
 <h1 id="about-me"></h1>
