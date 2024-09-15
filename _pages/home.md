@@ -6,11 +6,6 @@ author_profile: true
 redirect_from: /about/
 ---
 
-<h1 id="about"></h1>
-
-<h2 style="margin: 50px 0px 10px;">About me</h2>
-
-
 Hi there!
 
 I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I am a member of [Language & Development Lab](https://ladlab.ucsd.edu), where I am advised by David Barner. 
