@@ -14,7 +14,7 @@ author_profile: true
   <div class="more-text" id="moreText1" style="display: none;">
     We frequently understand utterances more deeply than their explicit content suggests. For example, "Mary had cheesecake for dessert" often implies she had only cheesecake, and "I ate some of your cookies" suggests I didn't eat all of them. We make these inferences swiftly during real-time language processing. In this project, with <a href="https://psychology.ucsd.edu/people/profiles/dbarner.html" target="_blank">David Barner</a>, we investigate how this feat is accomplished: Do listeners initially adopt a non-logical, pragmatic interpretation or begin with a logical meaning and then enrich the conditional statement via inference?
   </div>
-</div>
+
 
 <h2 style="margin: 40px 0px 10px;"> Role of Negation and Alternatives in Counterfactuals</h2>
 
@@ -25,7 +25,7 @@ author_profile: true
   <div class="more-text" id="moreText2" style="display: none;">
     Using web-based eye tracking, with <a href="https://people.ceu.edu/eva_wittenberg" target="_blank">Eva Wittenberg</a>, we focus on how negation and the availability of alternatives shape our mental representations during this process. A negated counterfactual, like 'If there had been no zebras, there would have been no lions in the zoo', suggests a world without these animals, while implicitly confirming their existence. These negated counterfactuals help answer the implicit Question under Discussion (QuD) by reducing uncertainty and creating specific mental images. This interaction indicates that the cognitive effort in comprehending counterfactuals primarily arises from uncertainty over alternative states and QuD accommodation.
   </div>
-</div>
+
 
 <h2 style="margin: 40px 0px 10px;"> Pronoun Resolution in Turkish </h2>
 
