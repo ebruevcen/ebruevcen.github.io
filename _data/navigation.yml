@@ -1,20 +1,12 @@
-# main links links
 main:
-  - title: "Home"
-    url: /
+  - title: "teaching"
+    url: /teaching/
 
-  - title: "Research"
+  - title: "publications & presentations"
+    url: /publications_presentations/
+
+  - title: "research"
     url: /research/
 
-  - title: "Publications & Presentations"
-    url: /publications_presentations/    
-
-  - title: "Teaching"
-    url: /teaching/    
-
-#  - title: "CV"
-#    url: /cv/
-        
-#   - title: "Miscellany"
-#     url: /misc/
-    
+  - title: "about me"
+    url: /
