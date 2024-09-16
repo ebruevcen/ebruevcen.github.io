@@ -5,8 +5,6 @@ permalink: /publications_presentations/
 author_profile: true
 ---
 
-<h1 id="Publications"></h1>
-
 <h2 style="margin: 50px 0px 10px;">Publications</h2>
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [psyarxiv](https://osf.io/preprints/psyarxiv/mv3y8)
@@ -21,7 +19,6 @@ author_profile: true
 
 - Özge, D. and <b>Evcen, E.</b> (2020). [Referential form, word order and emotional valence in Turkish pronoun resolution](https://www.degruyter.com/document/doi/10.1515/9783110686654-007/html). In U. Özge and D. Zeyrek (eds.). Turkish Discourse, Structure and Meaning. Trends in Linguistics Series, De Gruyter Publishing. [\[pdf\]](https://ebruevcen.github.io/assets/files/OzgeEvcen2020.pdf)
 
-<h1 id="Presentations"></h1>
 
 <h2 style="margin: 20px 0px 10px;">Presentations</h2>
 

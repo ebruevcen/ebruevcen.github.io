@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<h1 id="research"></h1>
-
-<h2 style="margin: 50px 0px 10px;">Research</h2>
-
 <h4 style="margin:0 0 0;">Research areas:</h4> Experimental semantics and pragmatics; Psycholinguistics; Cognitive science.
 
 <h4 style="margin:0 0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
