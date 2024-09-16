@@ -16,7 +16,7 @@ author_profile: true
   </div>
 </div>
 
-<h2 style="margin: 20px 0px 10px;"> Role of Negation and Alternatives in Counterfactuals</h2>
+<h2 style="margin: 40px 0px 10px;"> Role of Negation and Alternatives in Counterfactuals</h2>
 
 <div style="margin-bottom: 30px;">
   <img src="../images/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 220px; height: auto;" />
@@ -27,7 +27,7 @@ author_profile: true
   </div>
 </div>
 
-<h2 style="margin: 20px 0px 10px;"> Pronoun Resolution in Turkish </h2>
+<h2 style="margin: 40px 0px 10px;"> Pronoun Resolution in Turkish </h2>
 
 <div style="margin-bottom: 30px;">
   <p> In natural communication settings, ambiguous referring expressions like 'she', 'that', 'there', 'then' are rarely encountered without context. They usually appear after a meaningful discourse, enabling the construction of plausible hypotheses about their reference. Even within coherent discourse, identifying the correct reference among multiple alternatives is complex, involving understanding who or what the utterance is about, the event, the participants and their roles, and the relationship of the utterance to other discourse elements. Focusing on Turkish, with <a href="https://users.metu.edu.tr/duyguo/" target="_blank">Duygu Özge</a>, we examine how null and overt pronouns are interpreted across different verb types, coherence relations, valency, and word order. </p>
