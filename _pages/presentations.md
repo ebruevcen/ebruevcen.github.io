@@ -5,6 +5,8 @@ permalink: /presentations/
 author_profile: true
 ---
 
+- <b>Evcen, E.</b> & Wittenberg, E. (2024). Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals. Virtual poster at the 46th Annual Meeting of the Cognitive Science Society (CogSci), July 2024, Rotterdam, The Netherlands
+
 - <b>Evcen, E.</b> & Barner, D. (2024). Already Perfect: Conditional Statements. Poster at Experiments in Linguistics Meaning 3 (ELM 3), June 2024, University of Pennsylvania, Philadelphia, United States [\[poster\]](https://ebruevcen.github.io/files/ELM3_poster.pdf)
 
 - <b>Evcen, E.</b> & Barner, D. (2024). Conditional inferences are derived without delay. Poster at the 6th California Meeting on Psycholinguistics (CAMP 6), January 2024, Stanford University, CA, United States [\[poster\]](https://ebruevcen.github.io/files/camp6_poster.pdf)
