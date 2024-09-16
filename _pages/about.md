@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there!
 
-I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I am a member of [Language & Development Lab](https://ladlab.ucsd.edu), where I am advised by David Barner. 
+I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I am a member of [Language & Development Lab](https://ladlab.ucsd.edu), where I work with David Barner. 
 
 My research primarily focuses on psycholinguistics and experimental pragmatics. Specifically, I'm interested in how adults and kids develop rich linguistic meanings during comprehension. Using behavioral methods, I investigate how we arrive at interpretations of utterances that go beyond what is literally said. 
 
