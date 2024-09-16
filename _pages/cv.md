@@ -1,64 +1,47 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+<h1 id="research"></h1>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<h2 style="margin: 50px 0px 10px;">Research</h2>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<h4 style="margin:0 0 0;">Research areas:</h4> Experimental semantics and pragmatics; Psycholinguistics; Cognitive science.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<h4 style="margin:0 0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<div>
+<img src="../assets/img/conditionals.png" alt="conditional perfection" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
+    Why is the response "Wait, what if I don't?" taken humorously when someone says "if you want, there are cookies in the cupboard," yet it's completely reasonable to ask the same question in response to "if you mow the lawn, you'll receive 5 dollars"?
+     <a href="javascript:void(0);" id="readMoreLink1">Read More</a>
+   <div class="more-text" id="moreText1" style="display: none;">
+  We frequently understand utterances more deeply than their explicit content suggests. For example, "Mary had cheesecake for dessert" often implies she had only cheesecake, and "I ate some of your cookies" suggests I didn't eat all of them. We make these inferences swiftly during real-time language processing. In this project, with <a href="https://psychology.ucsd.edu/people/profiles/dbarner.html" target="_blank">David Barner</a>, we investigate how this feat is accomplished: Do listeners in initially adopt a non-logical, pragmatic interpretation or begin with a logical meaning and then enrich the conditional statement via inference?
+</div>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+<h4 style="margin:20px 0 0 0;">Negation and Alternatives in Counterfactual Comprehension</h4>
+
+<div>
+<img src="../assets/img/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 220px; height: auto;" />  
+Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
+<a href="javascript:void(0);" id="readMoreLink2">Read More</a>
+   <div class="more-text" id="moreText2" style="display: none;">
+ Using web-based eye tracking, with <a href="https://people.ceu.edu/eva_wittenberg" target="_blank">Eva Wittenberg</a>, we focus on how negation and the availability of alternatives shape our mental representations during this process. A negated counterfactual, like 'If there had been no zebras, there would have been no lions in the zoo', suggests a world without these animals, while implicitly confirming their existence. These negated counterfactuals help answer the implicit Question under Discussion (QuD) by reducing uncertainty and creating specific mental images. This interaction indicates that the cognitive effort in comprehending counterfactuals primarily arises from uncertainty over alternative states and QuD accommodation. 
+</div>
+
+
+<h4 style="margin:20px 0 0 0;">Pronoun Resolution in Turkish</h4>
+
+<div>
+<p> In natural communication settings, ambiguous referring expressions like 'she', 'that', 'there', 'then' are rarely encountered without context. They usually appear after a meaningful discourse, enabling the construction of plausible hypotheses about their reference. Even within coherent discourse, identifying the correct reference among multiple alternatives is complex, involving understanding who or what the utterance is about, the event, the participants and their roles, and the relationship of the utterance to other discourse elements. Focusing on Turkish, with <a href="https://users.metu.edu.tr/duyguo/" target="_blank">Duygu Özge</a>, we examine how null and overt pronouns are interpreted across different verb types, coherence relations, valency, and word order. </p>
+
+
+</div>
+
+
+
+
+
