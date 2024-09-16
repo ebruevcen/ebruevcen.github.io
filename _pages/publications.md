@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h1 id="Publications"></h1>
+
+<h2 style="margin: 50px 0px 20px;">Publications</h2>
+
 - <b>Evcen, E. </b> & Barner, D. (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (in prep). Referential form, word order, and implicit causality in Turkish psychological state verbs

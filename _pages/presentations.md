@@ -5,6 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
+<h1 id="Presentations"></h1>
+
+<h2 style="margin: 50px 0px 20px;">Presentations</h2>
+
 - <b>Evcen, E.</b> & Barner, D. (2024). Already Perfect: Conditional Statements. Poster at Experiments in Linguistics Meaning 3 (ELM 3), June 2024, University of Pennsylvania, Philadelphia, United States [\[poster\]](https://ebruevcen.github.io/files/ELM3_poster.pdf)
 
 - <b>Evcen, E.</b> & Barner, D. (2024). Conditional inferences are derived without delay. Poster at the 6th California Meeting on Psycholinguistics (CAMP 6), January 2024, Stanford University, CA, United States [\[poster\]](https://ebruevcen.github.io/files/camp6_poster.pdf)
