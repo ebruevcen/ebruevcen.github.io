@@ -17,7 +17,7 @@ I am also associated with the [Language Comprehension Lab](https://lcl.ceu.edu) 
 
 Before my Ph.D., I earned a master's degree in English Language Teaching from the Middle East Technical University (Ankara, Turkey), where I was part of the [Language and Cognitive Development Lab](https://langcog.metu.edu.tr), led by Duygu Özge.
 
-My CV can be found <a href="https://ebruevcen.github.io/files/curriculum_vitae.pdf" target="_blank">here</a>.
+My CV can be found <a href="https://ebruevcen.github.io/files/EbruEvcen_CV.pdf" target="_blank">here</a>.
 
 
 
