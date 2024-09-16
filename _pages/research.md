@@ -7,8 +7,8 @@ author_profile: true
 
 <h2 style="margin: 20px 0px 10px;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h2>
 
-<div>
-  <img src="../images/conditionals.png" alt="conditional perfection" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
+<div style="margin-bottom: 20px;">
+<img src="../images/conditionals.png" alt="conditional perfection" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
   Why is the response "Wait, what if I don't?" taken humorously when someone says "if you want, there are cookies in the cupboard," yet it's completely reasonable to ask the same question in response to "if you mow the lawn, you'll receive 5 dollars"?
   <a href="javascript:void(0);" id="readMoreLink1" onclick="toggleText('moreText1')">Read More</a>
   <div class="more-text" id="moreText1" style="display: none;">
@@ -18,7 +18,7 @@ author_profile: true
 
 <h2 style="margin: 20px 0px 10px;"> Role of Negation and Alternatives in Counterfactuals</h2>
 
-<div>
+<div style="margin-bottom: 20px;">
   <img src="../images/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 220px; height: auto;" />
   Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
   <a href="javascript:void(0);" id="readMoreLink2" onclick="toggleText('moreText2')">Read More</a>
@@ -29,7 +29,7 @@ author_profile: true
 
 <h2 style="margin: 20px 0px 10px;"> Pronoun Resolution in Turkish </h2>
 
-<div>
+<div style="margin-bottom: 20px;">
   <p> In natural communication settings, ambiguous referring expressions like 'she', 'that', 'there', 'then' are rarely encountered without context. They usually appear after a meaningful discourse, enabling the construction of plausible hypotheses about their reference. Even within coherent discourse, identifying the correct reference among multiple alternatives is complex, involving understanding who or what the utterance is about, the event, the participants and their roles, and the relationship of the utterance to other discourse elements. Focusing on Turkish, with <a href="https://users.metu.edu.tr/duyguo/" target="_blank">Duygu Özge</a>, we examine how null and overt pronouns are interpreted across different verb types, coherence relations, valency, and word order. </p>
 </div>
 
