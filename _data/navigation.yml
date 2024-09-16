@@ -6,19 +6,19 @@
 
 main:
 main:
-  - title: "About me"
+  - title: "about me"
     url: /about/
     
-  - title: "Research"
+  - title: "research"
     url: /research/
 
-  - title: "Publications"
+  - title: "publications"
     url: /publications/ 
 
-  - title: "Presentations"
+  - title: "presentations"
     url: /presentations/ 
 
-  - title: "Teaching"
+  - title: "teaching"
     url: /teaching/    
     
 
