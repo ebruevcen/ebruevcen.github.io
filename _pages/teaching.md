@@ -15,7 +15,6 @@ author_profile: true
   Introduction to College Teaching.   
   English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
   
-
 - <b>Teaching Assistant</b> (Fall 2020 - Spring 2024)  
   *Department of Linguistics, UC San Diego*.           
   LIGN 130: Semantics (Spring 2024) (2 sections)  
