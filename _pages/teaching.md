@@ -14,11 +14,11 @@ author_profile: true
 - <b>Teaching Consultant</b> (Summer 2024 - Present)  
   *Engaged Teaching Hub, UC San Diego*  
   
- - **Introduction to College Teaching: Foundations of Equitable Teaching**  
-    As the facilitator of this course, I focus on developing the practical skills and theoretical knowledge necessary for student-centered and equitable college teaching. This includes teaching philosophies, lesson design, and exploring dimensions of teaching for equity.
+ - Introduction to College Teaching: Foundations of Equitable Teaching
+    As the co-facilitator of this course, I focus on developing the practical skills and theoretical knowledge necessary for student-centered and equitable college teaching. This includes teaching philosophies, lesson design, and exploring dimensions of teaching for equity.
   
-  - **[English Language Program for International Instructors (ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)**  
-    I facilitate this program, which is designed to equip international graduate students with the linguistic and pedagogical skills required to excel in teaching roles. It promotes inclusivity and effective communication within UC San Diego's diverse community.
+  - English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
+    I co-facilitate this program, which is designed to equip international graduate students with the linguistic and pedagogical skills required to excel in teaching roles. It promotes inclusivity and effective communication within UC San Diego's diverse community.
   
 - <b>Teaching Assistant</b> (Fall 2020 - Spring 2024)  
   *Department of Linguistics, UC San Diego*           
