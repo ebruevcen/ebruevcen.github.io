@@ -17,20 +17,20 @@ author_profile: true
 
 - <b>Evcen, E.</b> and Wittenberg, E. (2022). [Making the Question under Discussion explicit shifts counterfactual interpretation](https://escholarship.org/uc/item/43z0w42j). *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*, 1855–1862. 
 
-- Özge, D. and <b>Evcen, E.</b> (2020). [Referential form, word order and emotional valence in Turkish pronoun resolution](https://www.degruyter.com/document/doi/10.1515/9783110686654-007/html). In U. Özge and D. Zeyrek (eds.). Turkish Discourse, Structure and Meaning. Trends in Linguistics Series, De Gruyter Publishing. [\[pdf\]](https://ebruevcen.github.io/assets/files/OzgeEvcen2020.pdf)
+- Özge, D. and <b>Evcen, E.</b> (2020). [Referential form, word order and emotional valence in Turkish pronoun resolution](https://www.degruyter.com/document/doi/10.1515/9783110686654-007/html). In U. Özge and D. Zeyrek (eds.). Turkish Discourse, Structure and Meaning. Trends in Linguistics Series, De Gruyter Publishing. [\[pdf\]](https://ebruevcen.github.io/files/OzgeEvcen2020.pdf)
 
 
 <h2 style="margin: 20px 0px 10px;">Presentations</h2>
 
-- <b>Evcen, E.</b> & Barner, D. (2024). Already Perfect: Conditional Statements. Poster at Experiments in Linguistics Meaning 3 (ELM 3), June 2024, University of Pennsylvania, Philadelphia, United States [\[poster\]](https://ebruevcen.github.io/assets/files/ELM3_poster.pdf)
+- <b>Evcen, E.</b> & Barner, D. (2024). Already Perfect: Conditional Statements. Poster at Experiments in Linguistics Meaning 3 (ELM 3), June 2024, University of Pennsylvania, Philadelphia, United States [\[poster\]](https://ebruevcen.github.io/files/ELM3_poster.pdf)
 
-- <b>Evcen, E.</b> & Barner, D. (2024). Conditional inferences are derived without delay. Poster at the 6th California Meeting on Psycholinguistics (CAMP 6), January 2024, Stanford University, CA, United States [\[poster\]](https://ebruevcen.github.io/assets/files/camp6_poster.pdf)
+- <b>Evcen, E.</b> & Barner, D. (2024). Conditional inferences are derived without delay. Poster at the 6th California Meeting on Psycholinguistics (CAMP 6), January 2024, Stanford University, CA, United States [\[poster\]](https://ebruevcen.github.io/files/camp6_poster.pdf)
 
-- <b>Evcen, E.</b> & Barner, D. (2023). Time course of conditional inferences. Poster at the 10th biennial meeting of Experimental Pragmatics (XPRAG), September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://ebruevcen.github.io/assets/files/ebru_xprag.pdf)
+- <b>Evcen, E.</b> & Barner, D. (2023). Time course of conditional inferences. Poster at the 10th biennial meeting of Experimental Pragmatics (XPRAG), September 2023, Université Paris Cité – CNRS, Paris, France [\[poster\]](https://ebruevcen.github.io/files/ebru_xprag.pdf)
 
-- <b>Evcen, E.</b> & Wittenberg, E. (2022). Negation facilitates comprehension of English counterfactuals. Short talk at Architectures and Mechanisms for Language Processing (AMLaP 28), September, 2022, University of York, United Kingdom [\[slides\]](https://ebruevcen.github.io/assets/files/AMLaP22_EvcenWittenberg.pdf)
+- <b>Evcen, E.</b> & Wittenberg, E. (2022). Negation facilitates comprehension of English counterfactuals. Short talk at Architectures and Mechanisms for Language Processing (AMLaP 28), September, 2022, University of York, United Kingdom [\[slides\]](https://ebruevcen.github.io/files/AMLaP22_EvcenWittenberg.pdf)
 
-- <b>Evcen, E.</b> &  Wittenberg, E. (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Short talk at the 44th Annual Meeting of the Cognitive Science Society (CogSci), July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/assets/files/CogSci22_EvcenWittenberg_Final.pdf)
+- <b>Evcen, E.</b> &  Wittenberg, E. (2022). Making the Question Under Discussion explicit shifts counterfactual interpretation. Short talk at the 44th Annual Meeting of the Cognitive Science Society (CogSci), July, 2022, Toronto, Canada [\[slides\]](https://ebruevcen.github.io/files/CogSci22_EvcenWittenberg_Final.pdf)
 
 - <b>Evcen, E.</b> & Özge, D. (2022). Pronoun resolution in Turkish Transfer-of-possession verbs: Evidence from comprehension and production. Talk at the 3rd Cologne Ankara Discourse Meeting (CADiM3), July, 2022, University of Cologne, Cologne, Germany.
 

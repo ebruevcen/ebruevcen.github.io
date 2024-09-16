@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-<h4 style="margin:0 0 0;">Research areas:</h4> Experimental semantics and pragmatics; Psycholinguistics; Cognitive science.
+<h4 style="margin:0 0 0;">Research areas:</h2> Experimental semantics and pragmatics; Psycholinguistics; Cognitive science.
 
 <h4 style="margin:0 0 0 0;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h4>
 
 <div>
-<img src="../assets/img/conditionals.png" alt="conditional perfection" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
+<img src="../images/conditionals.png" alt="conditional perfection" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
     Why is the response "Wait, what if I don't?" taken humorously when someone says "if you want, there are cookies in the cupboard," yet it's completely reasonable to ask the same question in response to "if you mow the lawn, you'll receive 5 dollars"?
      <a href="javascript:void(0);" id="readMoreLink1">Read More</a>
    <div class="more-text" id="moreText1" style="display: none;">
@@ -21,7 +21,7 @@ author_profile: true
 <h4 style="margin:20px 0 0 0;">Negation and Alternatives in Counterfactual Comprehension</h4>
 
 <div>
-<img src="../assets/img/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 220px; height: auto;" />  
+<img src="../images/counterfactuals2.png" alt="alternatives" style="float: right; margin-right: 20px; width: 220px; height: auto;" />  
 Counterfactuals enable us to imagine scenarios different from reality, often conveying meanings understood by contrasting potential realities. For example, the statement 'If there had been zebras, there would have been lions in the zoo' implies a hypothetical world with these animals, yet indicates their absence in reality. This involves mentally contrasting the actual world with the hypothetical one suggested by the counterfactual.
 <a href="javascript:void(0);" id="readMoreLink2">Read More</a>
    <div class="more-text" id="moreText2" style="display: none;">
