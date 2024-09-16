@@ -7,26 +7,21 @@
    ========================================================================== */
 
 .breadcrumbs {
-  @include container;
   @include clearfix;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 2em;
-  padding-right: 2em;
+  margin: 0 auto;
+  max-width: 100%;
+  padding-left: 1em;
+  padding-right: 1em;
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
           animation-delay: 0.30s;
 
-  @include breakpoint($large) {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
+ @include breakpoint($x-large) {
+     max-width: $x-large;
+          }
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
 
   ol {
     padding: 0;
