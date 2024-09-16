@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "EbruEvcen"
+title                    : "Ebru Evcen"
 title_separator          : "-"
 name                     : &name "Ebru Evcen"
-description              : &description "PhD Candidate in Linguistics at UC San Diego"
+description              : &description "PhD Candidate in Linguistics"
 url                      : https://ebruevcen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ebruevcen/ebruevcen.github.io"
@@ -24,31 +24,31 @@ author:
   avatar           : "profile.jpg"
   name             : "Ebru Evcen"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Linguistics at UC San Diego"
+  bio              : "PhD Candidate in Linguistics"
   location         : "San Diego, CA"
   employer         : "UC San Diego"
   uri              : # URL
-  email            : "eevcen (at) ucsd (dot) edu" 
+  email            : "eevcen@ucsd.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ebruevcen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@ebruevcen.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
