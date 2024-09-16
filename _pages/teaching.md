@@ -8,7 +8,7 @@ author_profile: true
 - <b> Instructor of Record</b> (Summer 2024)    
   *Department of Linguistics, UC San Diego*  
   LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
-  [Course website](https://sites.google.com/ucsd.edu/lign170/home) 
+  [Course website](https://sites.google.com/ucsd.edu/lign170/home) <br>
   Anti-racist and inclusive pedagogy project: [Diversifying psycholinguistics: Research bias](https://knit.ucsd.edu/linguisticspedagogy/case-study-psycholinguistics-2/)  
 
 - <b>Teaching Consultant</b> (Summer 2024 - Present)  
