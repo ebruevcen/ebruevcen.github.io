@@ -9,16 +9,16 @@ author_profile: true
   *Department of Linguistics, UC San Diego*  
   LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
   [Course website](https://sites.google.com/ucsd.edu/lign170/home) <br>
-  Anti-racist and inclusive pedagogy project: [Diversifying psycholinguistics: Research bias](https://knit.ucsd.edu/linguisticspedagogy/case-study-psycholinguistics-2/)  
+  >Anti-racist and inclusive pedagogy project: [Diversifying psycholinguistics: Research bias](https://knit.ucsd.edu/linguisticspedagogy/case-study-psycholinguistics-2/)  
 
 - <b>Teaching Consultant</b> (Summer 2024 - Present)  
   *Engaged Teaching Hub, UC San Diego*  
   
- - Introduction to College Teaching: Foundations of Equitable Teaching
-    As the co-facilitator of this course, I focus on developing the practical skills and theoretical knowledge necessary for student-centered and equitable college teaching. This includes teaching philosophies, lesson design, and exploring dimensions of teaching for equity.
+  Introduction to College Teaching: Foundations of Equitable Teaching
+   > As the co-facilitator of this course, I focus on developing the practical skills and theoretical knowledge necessary for student-centered and equitable college teaching. This includes teaching philosophies, lesson design, and exploring dimensions of teaching for equity.
   
-  - English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
-    I co-facilitate this program, which is designed to equip international graduate students with the linguistic and pedagogical skills required to excel in teaching roles. It promotes inclusivity and effective communication within UC San Diego's diverse community.
+  English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
+   > I co-facilitate this program, which is designed to equip international graduate students with the linguistic and pedagogical skills required to excel in teaching roles. It promotes inclusivity and effective communication within UC San Diego's diverse community.
   
 - <b>Teaching Assistant</b> (Fall 2020 - Spring 2024)  
   *Department of Linguistics, UC San Diego*           
@@ -29,5 +29,4 @@ author_profile: true
 
 - <b>Language Instructor</b> (2016 - 2020)  
   *Department of Foreign Languages, TOBB University of Economics and Technology*  
-    Preparatory English Program  
-    English for Academic Purposes (EAP)
+  > Taught in the Preparatory English Program and the English for Academic Purposes (EAP) courses, focusing on developing college students' English language skills to meet academic standards and prepare and support them for university-level studies.
