@@ -7,7 +7,7 @@ author_profile: true
 
  <b> Instructor of Record</b> (Summer 2024)    
   *Department of Linguistics, UC San Diego*  
- > LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
+  LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
   [Course website](https://sites.google.com/ucsd.edu/lign170/home) 
   > Anti-racist and inclusive pedagogy project: [Diversifying psycholinguistics: Research bias](https://knit.ucsd.edu/linguisticspedagogy/case-study-psycholinguistics-2/)  
 
@@ -22,7 +22,7 @@ author_profile: true
   
  <b>Teaching Assistant</b> (Fall 2020 - Spring 2024)  
   *Department of Linguistics, UC San Diego*           
-  > LIGN 130: Semantics (Spring 2024) (2 sections)  
+  LIGN 130: Semantics (Spring 2024) (2 sections)  
   LIGN 121: Syntax I (Winter 2024) (2 sections)  
   LIGN 101: Introduction to Linguistics (Winter 2020; Fall 2021; Spring 2021; Fall 2022; Winter 2022; Spring 2022; Fall 2023) (2 sections)  
   LIGN 8: Languages and Cultures of America (Fall 2020; Winter 2021)
