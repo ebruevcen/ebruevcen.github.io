@@ -5,7 +5,7 @@ permalink: /publications_presentations/
 author_profile: true
 ---
 
-<h2 style="margin: 50px 0px 10px;">Publications</h2>
+<h2 style="margin: 20px 0px 10px;">Publications</h2>
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [psyarxiv](https://osf.io/preprints/psyarxiv/mv3y8)
 
