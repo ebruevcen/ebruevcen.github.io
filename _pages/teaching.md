@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-<h1 id="Teaching"></h1>
-
-<h2 style="margin: 50px 0px 20px;">Teaching</h2>
 
 - <b> Instructor of Record</b> (Summer 2024)    
   *Department of Linguistics, UC San Diego*  

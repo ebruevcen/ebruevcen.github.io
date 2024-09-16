@@ -1,11 +1,9 @@
 --- 
 layout: archive 
-title: "" 
+title: "Research" 
 permalink: /research/ 
 author_profile: true 
 ---
-
-<h1 id="Research"></h1>
 
 <h2 style="margin: 20px 0px 10px;">Conditional Perfection: Pragmatic Inference in Human Reasoning</h2>
 
