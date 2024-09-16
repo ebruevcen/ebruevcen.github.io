@@ -9,6 +9,7 @@ author_profile: true
   *Department of Linguistics, UC San Diego*  
   LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
   [Course website](https://sites.google.com/ucsd.edu/lign170/home)
+  Anti-racist and inclusive pedagogy project: [Diversifying psycholinguistics: Research bias](https://knit.ucsd.edu/linguisticspedagogy/case-study-psycholinguistics-2/)  
 
 - <b>Teaching Consultant</b> (Summer 2024 - Present)  
   *Engaged Teaching Hub, UC San Diego*      
