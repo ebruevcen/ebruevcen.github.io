@@ -312,6 +312,9 @@
    ========================================================================== */
 
 .nav__list {
+  display: flex;  // Enables Flexbox
+  justify-content: flex-end;  // Aligns the navigation items to the right
+
   font-size: 1.25rem;
 
   ul {
