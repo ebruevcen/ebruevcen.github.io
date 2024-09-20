@@ -280,6 +280,10 @@ svg:not(:root) {
  */
 
 nav {
+  display: flex;  // Enables Flexbox
+  justify-content: flex-end;  //
+  align-items: center;  // Centers items vertically if needed
+
   ul {
     margin: 0;
     padding: 0;
