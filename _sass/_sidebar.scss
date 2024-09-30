@@ -96,7 +96,7 @@
       border-radius: 0;
   
       @include breakpoint($large) {
-        max-width: 250px; // Larger size for larger screens
+        max-width: 200px; // Larger size for larger screens
         padding: 5px;
         border: 1px solid $border-color;
       }
