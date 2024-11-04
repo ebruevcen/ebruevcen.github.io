@@ -4,6 +4,7 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+- <b>Evcen, E.</b> & Barner, D. (2024). Conditionally literal: Exploring conditional reasoning in childre. Talk at the 49th Annual Boston Univerisity Conference on Language Development (BUCLD 49), November 2024, Boston, MA, United States
 
 - <b>Evcen, E.</b> & Wittenberg, E. (2024). Two negatives make a positive: Reducing referential uncertainty through negation and order reversal eases processing in counterfactuals. Virtual poster at the 46th Annual Meeting of the Cognitive Science Society (CogSci 2024), July 2024, Rotterdam, The Netherlands
 
