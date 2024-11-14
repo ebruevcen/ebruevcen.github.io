@@ -12,7 +12,7 @@ author_profile: true
   > Anti-racist and inclusive pedagogy project: [Diversifying psycholinguistics: Research bias](https://knit.ucsd.edu/linguisticspedagogy/case-study-psycholinguistics-2/)  
 
  <b>Teaching Consultant</b> (Summer 2024 - Present)  
-  *Engaged Teaching Hub, UC San Diego*  
+  *Teaching and Learning Commons, UC San Diego*  
   
 - Introduction to College Teaching: Foundations of Equitable Teaching
    >As the co-facilitator of this course, I focus on developing the practical skills and theoretical knowledge necessary for student-centered and equitable college teaching. This includes teaching philosophies, lesson design, and exploring dimensions of teaching for equity.
