@@ -7,7 +7,7 @@ author_profile: true
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
 
-- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (in prep). Referential form, word order, and implicit causality in Turkish psychological state verbs
+- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
 
 - <b>Evcen, E.</b> and Wittenberg, E. (2024). Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, 4893-4900. [\[paper\]](https://escholarship.org/uc/item/1rx1b25r#main)
 
