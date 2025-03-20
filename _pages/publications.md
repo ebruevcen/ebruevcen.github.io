@@ -10,7 +10,7 @@ author_profile: true
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
 
-- <b>Evcen, E.</b> and Wittenberg, E. (2024). Two Negatives Make a Positive: Reducing Referential Uncertainty through Negation and Order Reversal Eases Processing in Counterfactuals. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, 4893-4900. [\[paper\]](https://escholarship.org/uc/item/1rx1b25r#main)
+- <b>Evcen, E.</b> and Wittenberg, E. (2024). Two negatives make a positive: Reducing referential uncertainty through negation and order reversal eases processing in counterfactuals. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, 4893-4900. [\[paper\]](https://escholarship.org/uc/item/1rx1b25r#main)
 
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey. *Cognitive Development*, 69, 101412. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub)
 
