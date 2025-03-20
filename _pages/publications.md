@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- <b>Evcen, E., </b> Bale, A. & Barner, D. (under review). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Already perfect: Language users access the pragmatic meanings of conditionals first. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
 
