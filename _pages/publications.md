@@ -10,7 +10,7 @@ author_profile: true
 
 - <b>Evcen, E. </b> & Barner, D. (in press). Already perfect: Language users access the pragmatic meanings of conditionals first. Open Mind [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
 
-- <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*
+- <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (2025). Referential form, word order, and implicit causality in Turkish emotion verbs. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*
 
