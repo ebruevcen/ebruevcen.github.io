@@ -6,7 +6,7 @@ author_profile: true
 ---
 - <b>Evcen, E., </b> Bale, A. & Barner, D. (under review). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
 
-- <b>Evcen, E. </b> & Barner, D. (2025). Already perfect: Language users access the pragmatic meanings of conditionals first. Open Mind [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
+- <b>Evcen, E. </b> & Barner, D. (in press). Already perfect: Language users access the pragmatic meanings of conditionals first. Open Mind [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
 
