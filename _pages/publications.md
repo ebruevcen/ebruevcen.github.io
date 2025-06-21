@@ -6,9 +6,13 @@ author_profile: true
 ---
 - <b>Evcen, E., </b> Bale, A. & Barner, D. (under review). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
 
+- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
+
 - <b>Evcen, E. </b> & Barner, D. (in press). Already perfect: Language users access the pragmatic meanings of conditionals first. Open Mind [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
 
-- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
+- <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*
+
+- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (2025). Referential form, word order, and implicit causality in Turkish emotion verbs. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*
 
 - <b>Evcen, E.</b> and Wittenberg, E. (2024). Two negatives make a positive: Reducing referential uncertainty through negation and order reversal eases processing in counterfactuals. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, 4893-4900. [\[publisher download\]](https://escholarship.org/uc/item/1rx1b25r#main)
 
