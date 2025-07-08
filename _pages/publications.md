@@ -7,6 +7,8 @@ author_profile: true
 
 ## Journal Articles
 
+- <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives.
+
 - <b>Evcen, E., </b> Bale, A. & Barner, D. (under review). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
