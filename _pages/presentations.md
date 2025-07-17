@@ -4,7 +4,7 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-- <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support.Poster at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025), July 2025, San Francisco, CA, United States [\[poster\]](https://ebruevcen.github.io/files/CogSci25_ConditionaKids.pdf)
+- <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support.Poster at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025), July 2025, San Francisco, CA, United States [\[poster\]](https://ebruevcen.github.io/files/CogSci25_ConditionalKids.pdf)
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (2025). Referential form, word order, and implicit causality in Turkish emotion verbs. Poster at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025), July 2025, San Francisco, CA, United States [\[poster\]](https://ebruevcen.github.io/files/CogSci25_TurkishPronoun.pdf)
 
