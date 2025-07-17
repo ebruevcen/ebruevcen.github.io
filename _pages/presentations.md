@@ -4,7 +4,11 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-- <b>Evcen, E.</b>, Bale, A. & Barner, D. (2025). Which alternatives matter? The role of QUD and speaker knowledge in conditionals. Poster at the 35th Semantic and Linguistic Theory (SALT 35), May 2025, Boston, MA, United States
+- <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support.Poster at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025), July 2025, San Francisco, CA, United States [\[poster\]](https://ebruevcen.github.io/files/CogSci25_ConditionaKids.pdf)
+
+- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (2025). Referential form, word order, and implicit causality in Turkish emotion verbs. Poster at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025), July 2025, San Francisco, CA, United States [\[poster\]](https://ebruevcen.github.io/files/CogSci25_TurkishPronoun.pdf)
+
+- <b>Evcen, E.</b>, Bale, A. & Barner, D. (2025). Which alternatives matter? The role of QUD and speaker knowledge in conditionals. Poster at the 35th Semantic and Linguistic Theory (SALT 35), May 2025, Boston, MA, United States [\[poster\]](https://ebruevcen.github.io/files/SALT35_poster.pdf)
 
 - <b>Evcen, E.</b> & Barner, D. (2024). Conditionally literal: Exploring conditional reasoning in children. Talk at the 49th Annual Boston University Conference on Language Development (BUCLD 49), November 2024, Boston, MA, United States
 
