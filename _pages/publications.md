@@ -13,7 +13,7 @@ author_profile: true
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
 
-- <b>Evcen, E. </b> & Barner, D. (in press). Already perfect: Language users access the pragmatic meanings of conditionals first. *Open Mind: Discoveries in Cognitive Science* [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/mv3y8)
+- <b>Evcen, E. </b> & Barner, D. (2025). Already perfect: Language users access the pragmatic meanings of conditionals first. *Open Mind: Discoveries in Cognitive Science* [\[publisher download\]](https://direct.mit.edu/opmi/article/doi/10.1162/opmi.a.17/132756/Already-Perfect-Language-Users-Access-the)
 
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey. *Cognitive Development*, 69, 101412. [\[publisher download\]](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub)
 
