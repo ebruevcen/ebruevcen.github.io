@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there!
 
-I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I spend most of my days either puzzling over how people make meaning or chasing toddlers around with games in the name of science.
+I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I spend most of my days either puzzling over how people build meaning or chasing toddlers around with games in the name of science.
 
 I am a member of Language & Development Lab, where I work with [David Barner](https://ladlab.ucsd.edu). My research is about language and cognition, approached through experimental semantics and pragmatics with a focus on development. I’m interested in how meaning is represented in the mind, how people construct meanings during comprehension, how these meanings are enriched by context, and how children learn to integrate both linguistic knowledge and contextual cues.
 
