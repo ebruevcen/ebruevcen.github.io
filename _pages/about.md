@@ -11,14 +11,13 @@ Hi there!
 
 I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I am a member of [Language & Development Lab](https://ladlab.ucsd.edu), where I work with David Barner. 
 
-My research primarily focuses on psycholinguistics and experimental pragmatics. Specifically, I'm interested in how adults and kids develop rich linguistic meanings during comprehension. Using behavioral methods, I investigate how we arrive at interpretations of utterances that go beyond what is literally said. 
+My research is about language and cognition, and I approach this through experimental semantics and pragmatics, with a particular focus on development. I’m interested in how meaning is represented in the mind, how context shapes interpretation, and how children acquire the capacity to use language for reasoning.
 
-I am also associated with the [Language Comprehension Lab](https://lcl.ceu.edu) at Central European University (Vienna, Austria), where I work with Eva Wittenberg.
+A central part of my work asks how linguistic structures support logical and pragmatic inference, exploring how representations of meaning allow us to generate inferences, consider alternatives, and draw conclusions that go beyond what is literally said. More broadly, I investigate the interface between language and communication, examining how decoding linguistic form and drawing pragmatic inferences interact during comprehension and how these processes change over development.
 
-Before my Ph.D., I earned a master's degree in English Language Teaching from the Middle East Technical University (Ankara, Turkey), where I was part of the [Language and Cognitive Development Lab](https://langcog.metu.edu.tr), led by Duygu Özge.
+Previously, I worked with [Eva Wittenberg]((https://lcl.ceu.edu)) (formerly at UC San Diego, now at Central European University) on collaborative projects, and with [Duygu Sarısoy]((https://langcog.metu.edu.tr)) during my MA at Middle East Technical University.
 
 My CV can be found <a href="https://ebruevcen.github.io/files/EbruEvcen_CV.pdf" target="_blank">here</a>.
-
 
 
 
