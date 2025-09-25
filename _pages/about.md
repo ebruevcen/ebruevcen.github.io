@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there!
 
-I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I study meaning: how people represent it, how kids learn it, and how linguistic structure interacts with reasoning.
+I'm Ebru Evcen, a Ph.D. candidate in Linguistics at the University of California, San Diego. I study meaning: how it is represented in the mind, how children develop semantic and pragmatic competence, and how linguistic structure interacts with reasoning.
 
 I work with [David Barner](https://ladlab.ucsd.edu) in the Language and Development Lab.
 My work has focused on experimental semantics and pragmatics, especially how adults compute inferences in real time, what discourse factors shape those inferences, and why children often fail to compute adult-like inferences. Most of my work centers on logical expressions like conditionals (“if”), disjunction (“or”), and free choice (“you may take either”), all of which crucially involve reasoning about possibilities. With adults, I study how these expressions are processed in real time and what inferences they support. With children, I ask why these same concepts are so challenging to learn, what representations they consider along the way, how they understand the space of possible alternatives, and what allows them to progress from one stage of competence to the next.
