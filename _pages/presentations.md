@@ -4,7 +4,7 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-- <b>Evcen, E.</b> & Barner, D. (upcoming). Spontaneous interpretation of disjunction in preschoolers: One is preferred, both are fine. Talk at the 50th Annual Boston University Conference on Language Development (BUCLD 50), November 2025, Boston, MA, United States
+- <b>Evcen, E.</b> & Barner, D. (upcoming). Spontaneous interpretation of disjunction in preschoolers: One is preferred, both are fine. Poster at the 50th Annual Boston University Conference on Language Development (BUCLD 50), November 2025, Boston, MA, United States
 
 - <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support.Poster at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025), July 2025, San Francisco, CA, United States [\[poster\]](https://ebruevcen.github.io/files/CogSci25_ConditionalKids.pdf)
 
