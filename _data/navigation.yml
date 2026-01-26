@@ -8,9 +8,6 @@
 main:
   - title: "about me"
     url: /about/
-    
-  - title: "research"
-    url: /research/
 
   - title: "publications"
     url: /publications/ 

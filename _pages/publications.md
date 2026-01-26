@@ -7,11 +7,15 @@ author_profile: true
 
 ## Journal Articles
 
+- <b>Evcen, E. </b> & Barner, D. (in prep). Preschoolers interpret disjunction exclusively
+
+- <b>Evcen, E. </b> & Barner, D. (in prep). Can 3-year-olds reason about multiple possibilities? Evidence from free choice inferences
+
 - <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives.
 
-- <b>Evcen, E., </b> Bale, A. & Barner, D. (under review). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
+- <b>Evcen, E., </b> Bale, A. & Barner, D. (under revised review). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
 
-- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under review). Referential form, word order, and implicit causality in Turkish emotion verbs.
+- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under revised review). Referential form, word order, and implicit causality in Turkish emotion verbs.
 
 - <b>Evcen, E. </b> & Barner, D. (2025). Already perfect: Language users access the pragmatic meanings of conditionals first. *Open Mind: Discoveries in Cognitive Science* [\[publisher download\]](https://direct.mit.edu/opmi/article/doi/10.1162/opmi.a.17/132756/Already-Perfect-Language-Users-Access-the)
 
