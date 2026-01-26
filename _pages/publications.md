@@ -11,7 +11,7 @@ author_profile: true
 
 - <b>Evcen, E. </b> & Barner, D. (in prep). Can 3-year-olds reason about multiple possibilities? Evidence from free choice inferences
 
-- <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives.
+- <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/q7pnw_v1)
 
 - <b>Evcen, E., </b> Bale, A. & Barner, D. (under revised review). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
 
