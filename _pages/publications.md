@@ -15,7 +15,7 @@ author_profile: true
 
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (under revised review). Pronoun resolution in Turkish: The interplay of referential form, word order and implicit causality
 
-- <b>Evcen, E., </b> Bale, A. & Barner, D. (in press) Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection.*Journal of Semantics* [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v1)
+- <b>Evcen, E., </b> Bale, A. & Barner, D. (in press) Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection.*Journal of Semantics* [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/fzjkr_v2)
 
 - <b>Evcen, E. </b> & Barner, D. (2025). Already perfect: Language users access the pragmatic meanings of conditionals first. *Open Mind: Discoveries in Cognitive Science* [\[publisher download\]](https://direct.mit.edu/opmi/article/doi/10.1162/opmi.a.17/132756/Already-Perfect-Language-Users-Access-the)
 
