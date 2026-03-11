@@ -7,9 +7,9 @@ author_profile: true
 
 ## Journal Articles
 
-- <b>Evcen, E. </b> & Barner, D. (in prep). Can 3-year-olds reason about multiple possibilities? Evidence from free choice inferences
-
 - <b>Evcen, E. </b> & Barner, D. (in prep). Preschoolers interpret disjunction exclusively
+
+- <b>Evcen, E. </b> & Barner, D. (in prep). Possible words and worlds in the acquisition of logical forms
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/q7pnw_v1)
 
