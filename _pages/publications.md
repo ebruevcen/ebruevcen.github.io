@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Articles
 
-- <b>Evcen, E. </b> & Barner, D. (in prep). Possible words and worlds in the acquisition of logical forms
+- <b>Evcen, E. </b> & Barner, D. (in prep). Possible words and possible worlds in the acquisition of logical forms.
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Children spontaneously compute scalar implicatures.
 
