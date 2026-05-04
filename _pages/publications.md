@@ -9,7 +9,7 @@ author_profile: true
 
 - <b>Evcen, E. </b> & Barner, D. (in prep). Possible words and worlds in the acquisition of logical forms
 
-- <b>Evcen, E. </b> & Barner, D. (in prep). Children spontaneously compute scalar implicatures
+- <b>Evcen, E. </b> & Barner, D. (under review). Children spontaneously compute scalar implicatures.
 
 - <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/q7pnw_v1)
 
