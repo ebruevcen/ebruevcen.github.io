@@ -5,20 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 
- <b> Instructor of Record</b> (Summer 2026)    
-  *Department of Linguistics, UC San Diego*  
+<b> Instructor of Record</b> (Summer 2026)    
+  *Department of Psychology, UC San Diego*  
   PSYC 190: Science of Parenting
 
- <b>Teaching Consultant</b> (Summer 2024 - Spring 2026)  
-  *Teaching and Learning Commons, UC San Diego*  
-  
-- Introduction to College Teaching: Foundations of Equitable Teaching
-   >As the co-facilitator of this course, I focus on developing the practical skills and theoretical knowledge necessary for student-centered and equitable college teaching. This includes teaching philosophies, lesson design, and exploring dimensions of teaching for equity.
-  
-- English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
-   > I co-facilitate this program, which is designed to equip international graduate students with the linguistic and pedagogical skills required to excel in teaching roles. It promotes inclusivity and effective communication within UC San Diego's diverse community.
-  
-   <b> Instructor of Record</b> (Summer 2024)    
+
+**Teaching Consultant** (Summer 2024 - Spring 2026)
+*Teaching and Learning Commons, UC San Diego*
+
+* **Introduction to College Teaching: Foundations of Equitable Teaching.** As co-facilitator, I introduce graduate instructors to the foundations of student-centered, equitable teaching: developing a teaching philosophy, evidence-based and equity-grounded practices, designing a class session, and the broader dimensions of teaching for equity.
+
+* **Advanced College Teaching: Course Design** As co-facilitator, I guide graduate instructors through designing a course from the ground up: backward course design, aligning learning outcomes with activities and assessments, and building syllabi and assessment plans that support equitable learning.
+
+* **Communication for Teaching.** Offered through the English Language Program for International Instructors, this course supports international graduate students in developing oral English communication, culturally responsive pedagogy, and equitable classroom management, so they can thrive as instructors and communicate clearly across UC San Diego's diverse community.
+
+
+<b> Instructor of Record</b> (Summer 2024)    
   *Department of Linguistics, UC San Diego*  
   LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
   [Course website](https://sites.google.com/ucsd.edu/lign170/home) 
