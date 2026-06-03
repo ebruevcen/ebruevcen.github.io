@@ -5,13 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
- <b> Instructor of Record</b> (Summer 2024)    
+ <b> Instructor of Record</b> (Summer 2026)    
   *Department of Linguistics, UC San Diego*  
-  LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
-  [Course website](https://sites.google.com/ucsd.edu/lign170/home) 
-  > Anti-racist and inclusive pedagogy project: [Diversifying psycholinguistics: Research bias](https://knit.ucsd.edu/linguisticspedagogy/case-study-psycholinguistics-2/)  
+  PSYC 190: Science of Parenting
 
- <b>Teaching Consultant</b> (Summer 2024 - Present)  
+ <b>Teaching Consultant</b> (Summer 2024 - Spring 2026)  
   *Teaching and Learning Commons, UC San Diego*  
   
 - Introduction to College Teaching: Foundations of Equitable Teaching
@@ -19,6 +17,11 @@ author_profile: true
   
 - English Language Program for International Instructors [(ELP-ii)](https://engagedteaching.ucsd.edu/educators/grad-students/elpii/index.html)
    > I co-facilitate this program, which is designed to equip international graduate students with the linguistic and pedagogical skills required to excel in teaching roles. It promotes inclusivity and effective communication within UC San Diego's diverse community.
+  
+   <b> Instructor of Record</b> (Summer 2024)    
+  *Department of Linguistics, UC San Diego*  
+  LIGN 170 Psycholinguistics: Experimental Approaches to Language and Cognition  
+  [Course website](https://sites.google.com/ucsd.edu/lign170/home) 
   
  <b>Teaching Assistant</b> (Fall 2020 - Spring 2024)  
   *Department of Linguistics, UC San Diego*           
