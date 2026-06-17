@@ -25,15 +25,15 @@ author_profile: true
 
 *Peer-Reviewed
 
-- * <b>Evcen, E., </b> Bale, A. & Barner, D. (2025). Which alternatives matter? The role of the Question Under Discussion and speaker knowledge in conditionals. *Semantics and Linguistic Theory (SALT) 35*, 65-83. [\[publisher download\]](https://doi.org/10.3765/rs7en542)
+- <b>Evcen, E., </b> Bale, A. & Barner, D. (2025). Which alternatives matter? The role of the Question Under Discussion and speaker knowledge in conditionals. *Semantics and Linguistic Theory (SALT) 35*, 65-83. [\[publisher download\]](https://doi.org/10.3765/rs7en542)
 
-- * <b>Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society* [\[publisher download\]](https://escholarship.org/uc/item/11s6q9z5#main)
+- <b>* Evcen, E. </b> & Barner, D. (2025). Preschoolers compute literal and pragmatic meanings of conditionals with contextual support. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society* [\[publisher download\]](https://escholarship.org/uc/item/11s6q9z5#main)
 
 - * Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (2025). Referential form, word order, and implicit causality in Turkish emotion verbs. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society* [\[publisher download\]](https://escholarship.org/uc/item/4pb6b6gg#main)
 
-- * <b>Evcen, E.</b> and Wittenberg, E. (2024). Two negatives make a positive: Reducing referential uncertainty through negation and order reversal eases processing in counterfactuals. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, 4893-4900. [\[publisher download\]](https://escholarship.org/uc/item/1rx1b25r#main)
+- <b>* Evcen, E.</b> and Wittenberg, E. (2024). Two negatives make a positive: Reducing referential uncertainty through negation and order reversal eases processing in counterfactuals. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, 4893-4900. [\[publisher download\]](https://escholarship.org/uc/item/1rx1b25r#main)
 
-- * <b>Evcen, E.</b> and Wittenberg, E. (2022). Making the Question under Discussion explicit shifts counterfactual interpretation. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*, 1855–1862. [\[publisher download\]](https://escholarship.org/uc/item/43z0w42j)
+- <b>* Evcen, E.</b> and Wittenberg, E. (2022). Making the Question under Discussion explicit shifts counterfactual interpretation. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*, 1855–1862. [\[publisher download\]](https://escholarship.org/uc/item/43z0w42j)
 
 ## Book Chapters
 
