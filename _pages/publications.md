@@ -12,8 +12,10 @@ author_profile: true
 - <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/q7pnw_v2)
 
 ## Journal Articles
-- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (in press). Pronoun resolution in Turkish: The interplay of referential form, word order and implicit causality. *Cognitive Science* 
+- Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (2026). Pronoun resolution in Turkish: The interplay of referential form, word order and implicit causality. *Cognitive Science*, 50: e70235. [\publisher download\]](https://doi.org/10.1111/cogs.70235)
+
 - <b>Evcen, E., </b> Bale, A. & Barner, D. (2026). Conditional inference and access to alternatives: The role of QUD and speaker knowledge in conditional perfection. *Journal of Semantics*, ffag003.[\[publisher download\]](https://doi.org/10.1093/jos/ffag003)
+
 - <b>Evcen, E. </b> & Barner, D. (2025). Already perfect: Language users access the pragmatic meanings of conditionals first. *Open Mind*. [\[publisher download\]](https://direct.mit.edu/opmi/article/doi/10.1162/opmi.a.17/132756/Already-Perfect-Language-Users-Access-the)
 - Yeter, Ö., <b>Evcen, E.</b>, Rabagliati, H., & Özge, D. (2024). Understanding cognitive and language development in refugees: Evidence from displaced syrian children in Turkey. *Cognitive Development*, 69, 101412. [\[publisher download\]](https://www.sciencedirect.com/science/article/abs/pii/S088520142300117X?via%3Dihub)
 
