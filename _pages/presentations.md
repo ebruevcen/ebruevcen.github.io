@@ -4,8 +4,9 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+- <b>Evcen, E.</b> & Barner, D. (upcoming). Children spontaneously compute scalar implicatures. Talk at the 49th Annual Boston University Conference on Language Development (BUCLD 51), November 2026, Boston, MA, United States
 
-- <b>Evcen, E.</b> & Barner, D. (upcoming). Ice cream or cake? Free choice inferences and compatible possibilities. Poster at Cognitive Development Society Biennial Conference (CDS 2026), April 2026, Montreal, Canada
+- <b>Evcen, E.</b> & Barner, D. (2026). Ice cream or cake? Free choice inferences and compatible possibilities. Poster at Cognitive Development Society Biennial Conference (CDS 2026), April 2026, Montreal, Canada
 
 - <b>Evcen, E.</b> & Barner, D. (2025). Spontaneous interpretation of disjunction in preschoolers: One is preferred, both are fine. Poster at the 50th Annual Boston University Conference on Language Development (BUCLD 50), November 2025, Boston, MA, United States
 

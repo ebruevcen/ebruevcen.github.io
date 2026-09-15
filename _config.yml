@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "              "
 title_separator          : "-"
 name                     : &name "Ebru Evcen"
-description              : &description "PhD Candidate in Linguistics"
+description              : &description "Postdoctoral researcher"
 url                      : https://ebruevcen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ebruevcen/ebruevcen.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Ebru Evcen"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Linguistics"
-  location         : "San Diego, CA"
-  employer         : "UC San Diego"
+  bio              : "Postdoctoral researcher"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "eevcen@ucsd.edu" 
+  email            : "" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
