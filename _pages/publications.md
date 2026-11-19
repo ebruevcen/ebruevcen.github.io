@@ -8,8 +8,8 @@ author_profile: true
 - <b>Evcen, E. </b> & Barner, D. (in prep). Imagining possible words and possible worlds in language acquisition.
 
 ## Manuscripts Under Review
-- <b>Evcen, E. </b> & Barner, D. (under review). Children spontaneously compute scalar implicatures. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/4ha6v_v1)
-- <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/q7pnw_v2)
+- <b>Evcen, E. </b> & Barner, D. (under review). Children spontaneously compute scalar implicatures. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/4ha6v_v2)
+- <b>Evcen, E. </b> & Barner, D. (under review). Conditional reasoning in preschoolers: The role of context and alternatives. [\[psyarxiv\]](https://osf.io/preprints/psyarxiv/q7pnw_v3)
 
 ## Journal Articles
 - Sarısoy, D., <b> Evcen, E.</b> & Hartshorne, J. (2026). Pronoun resolution in Turkish: The interplay of referential form, word order and implicit causality. *Cognitive Science*, 50: e70235. [\publisher download\]](https://doi.org/10.1111/cogs.70235)
