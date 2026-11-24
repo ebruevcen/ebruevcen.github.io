@@ -15,6 +15,8 @@ I study the development and processing of semantic representations: how meaning 
 
 Previously, I studied pronoun resolution in Turkish with [Duygu Özge Sarısoy](https://langcog.metu.edu.tr), examining how ambiguous pronouns are interpreted across contexts. I also worked on counterfactuals with [Eva Wittenberg](https://lcl.ceu.edu) (formerly at UC San Diego, now at Central European University), investigating how uncertainty and alternatives are represented as a counterfactual utterance unfolds. And just recently, I started a new project with [Rachel Dudley](https://sites.google.com/site/rachelelainedudley/) on children’s understanding of factivity in Turkish, looking at how input with factive verbs contributes to the acquisition of belief and knowledge verbs.
 
+You can reach me at ebruevcen [at] g [dot] harvard [dot] edu.
+
 My CV can be found <a href="https://ebruevcen.github.io/files/EbruEvcen_CV.pdf" target="_blank">here</a>, while I can be found in Cambridge coffee shops, trying to look productive with my laptop (and sometimes succeeding!)
 
 
